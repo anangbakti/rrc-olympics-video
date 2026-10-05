@@ -9,6 +9,10 @@
 
 A code-driven, programmatic historical video essay and documentary pipeline built with **Remotion (React + TypeScript)** and Python AI audio engineering.
 
+<p align="center">
+  <img src="assets/teaser.gif" alt="China Olympic Dominance Documentary Teaser" width="100%" />
+</p>
+
 ---
 
 ## 📽️ Video Overview
@@ -49,6 +53,8 @@ This documentary breaks down the institutional machine behind China's sports sup
 ├── remotion.config.ts           # Remotion bundler and rendering configuration
 ├── skills.md                    # Technical capabilities and operator runbook
 ├── youtube_metadata.md          # YouTube titles, SEO tags, chapters, and description
+├── assets/
+│   └── teaser.gif               # 5-second 720p animated teaser preview for README
 ├── scripts/
 │   ├── align_subtitles.py       # Faster-Whisper forced word-level timestamp alignment
 │   ├── download_assets.py       # Stock image ingestion & CC license audit
@@ -91,7 +97,7 @@ This documentary breaks down the institutional machine behind China's sports sup
 ### 1. Prerequisites
 - **Node.js**: v18 or later
 - **Python**: v3.10 or later
-- **FFmpeg**: Required by Remotion for video rendering
+- **FFmpeg**: Bundled within `@remotion/compositor-win32-x64-msvc` (or system FFmpeg)
 
 ### 2. Install Node Dependencies
 ```bash
@@ -142,6 +148,16 @@ npx remotion render FullVideo out/china_olympic_dominance.mp4
 To optimize render speed with multi-threading:
 ```bash
 npx remotion render FullVideo out/china_olympic_dominance.mp4 --concurrency=8
+```
+
+### Render 5-Second Teaser MP4 & Convert to GIF
+Generate a 5-second teaser clip and convert it into a palette-optimized animated GIF for web previews:
+```bash
+# 1. Render 5-second clip (frames 0 to 149)
+npx remotion render FullVideo out/teaser.mp4 --frames=0-149
+
+# 2. Convert to high-quality palette-optimized GIF (15 FPS, 720p width)
+& "node_modules/@remotion/compositor-win32-x64-msvc/ffmpeg.exe" -y -i out/teaser.mp4 -r 15 -vf "scale=720:-1:flags=lanczos,split[s0][s1];[s0]palettegen[p];[s1][p]paletteuse" assets/teaser.gif
 ```
 
 ### Render Individual Scenes

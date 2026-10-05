@@ -1,0 +1,5287 @@
+[
+  {
+    "word": "Anatomy",
+    "start": 0.0,
+    "end": 0.52,
+    "startFrame": 0,
+    "endFrame": 16
+  },
+  {
+    "word": "of",
+    "start": 0.52,
+    "end": 0.74,
+    "startFrame": 16,
+    "endFrame": 22
+  },
+  {
+    "word": "a",
+    "start": 0.74,
+    "end": 0.84,
+    "startFrame": 22,
+    "endFrame": 25
+  },
+  {
+    "word": "Champion",
+    "start": 0.84,
+    "end": 1.24,
+    "startFrame": 25,
+    "endFrame": 37
+  },
+  {
+    "word": "Machine:",
+    "start": 1.24,
+    "end": 1.84,
+    "startFrame": 37,
+    "endFrame": 55
+  },
+  {
+    "word": "How",
+    "start": 2.26,
+    "end": 2.42,
+    "startFrame": 68,
+    "endFrame": 73
+  },
+  {
+    "word": "China",
+    "start": 2.42,
+    "end": 2.74,
+    "startFrame": 73,
+    "endFrame": 82
+  },
+  {
+    "word": "Became",
+    "start": 2.74,
+    "end": 3.16,
+    "startFrame": 82,
+    "endFrame": 95
+  },
+  {
+    "word": "an",
+    "start": 3.16,
+    "end": 3.36,
+    "startFrame": 95,
+    "endFrame": 101
+  },
+  {
+    "word": "Olympic",
+    "start": 3.36,
+    "end": 3.72,
+    "startFrame": 101,
+    "endFrame": 112
+  },
+  {
+    "word": "and",
+    "start": 3.72,
+    "end": 4.04,
+    "startFrame": 112,
+    "endFrame": 121
+  },
+  {
+    "word": "Asian",
+    "start": 4.04,
+    "end": 4.34,
+    "startFrame": 121,
+    "endFrame": 130
+  },
+  {
+    "word": "game",
+    "start": 4.34,
+    "end": 4.64,
+    "startFrame": 130,
+    "endFrame": 139
+  },
+  {
+    "word": "Superpower.",
+    "start": 4.64,
+    "end": 5.44,
+    "startFrame": 139,
+    "endFrame": 163
+  },
+  {
+    "word": "During",
+    "start": 5.98,
+    "end": 6.52,
+    "startFrame": 179,
+    "endFrame": 196
+  },
+  {
+    "word": "the",
+    "start": 6.52,
+    "end": 6.7,
+    "startFrame": 196,
+    "endFrame": 201
+  },
+  {
+    "word": "early",
+    "start": 6.7,
+    "end": 6.96,
+    "startFrame": 201,
+    "endFrame": 209
+  },
+  {
+    "word": "20th",
+    "start": 6.96,
+    "end": 7.46,
+    "startFrame": 209,
+    "endFrame": 224
+  },
+  {
+    "word": "century,",
+    "start": 7.46,
+    "end": 7.86,
+    "startFrame": 224,
+    "endFrame": 236
+  },
+  {
+    "word": "China",
+    "start": 8.38,
+    "end": 8.58,
+    "startFrame": 251,
+    "endFrame": 257
+  },
+  {
+    "word": "carried",
+    "start": 8.58,
+    "end": 8.94,
+    "startFrame": 257,
+    "endFrame": 268
+  },
+  {
+    "word": "a",
+    "start": 8.94,
+    "end": 9.1,
+    "startFrame": 268,
+    "endFrame": 273
+  },
+  {
+    "word": "derogatory",
+    "start": 9.1,
+    "end": 9.72,
+    "startFrame": 273,
+    "endFrame": 292
+  },
+  {
+    "word": "label:",
+    "start": 9.72,
+    "end": 10.16,
+    "startFrame": 292,
+    "endFrame": 305
+  },
+  {
+    "word": "The",
+    "start": 10.64,
+    "end": 10.72,
+    "startFrame": 319,
+    "endFrame": 322
+  },
+  {
+    "word": "Sick",
+    "start": 10.72,
+    "end": 10.98,
+    "startFrame": 322,
+    "endFrame": 329
+  },
+  {
+    "word": "Man",
+    "start": 10.98,
+    "end": 11.22,
+    "startFrame": 329,
+    "endFrame": 337
+  },
+  {
+    "word": "of",
+    "start": 11.22,
+    "end": 11.54,
+    "startFrame": 337,
+    "endFrame": 346
+  },
+  {
+    "word": "East",
+    "start": 11.54,
+    "end": 11.8,
+    "startFrame": 346,
+    "endFrame": 354
+  },
+  {
+    "word": "Asia.",
+    "start": 11.8,
+    "end": 12.2,
+    "startFrame": 354,
+    "endFrame": 366
+  },
+  {
+    "word": "On",
+    "start": 12.94,
+    "end": 13.06,
+    "startFrame": 388,
+    "endFrame": 392
+  },
+  {
+    "word": "the",
+    "start": 13.06,
+    "end": 13.2,
+    "startFrame": 392,
+    "endFrame": 396
+  },
+  {
+    "word": "international",
+    "start": 13.2,
+    "end": 13.76,
+    "startFrame": 396,
+    "endFrame": 413
+  },
+  {
+    "word": "sporting",
+    "start": 13.76,
+    "end": 14.18,
+    "startFrame": 413,
+    "endFrame": 425
+  },
+  {
+    "word": "stage,",
+    "start": 14.18,
+    "end": 14.7,
+    "startFrame": 425,
+    "endFrame": 441
+  },
+  {
+    "word": "their",
+    "start": 15.08,
+    "end": 15.18,
+    "startFrame": 452,
+    "endFrame": 455
+  },
+  {
+    "word": "presence",
+    "start": 15.18,
+    "end": 15.54,
+    "startFrame": 455,
+    "endFrame": 466
+  },
+  {
+    "word": "was",
+    "start": 15.54,
+    "end": 15.8,
+    "startFrame": 466,
+    "endFrame": 474
+  },
+  {
+    "word": "virtually",
+    "start": 15.8,
+    "end": 16.36,
+    "startFrame": 474,
+    "endFrame": 491
+  },
+  {
+    "word": "nonexistent.",
+    "start": 16.36,
+    "end": 17.18,
+    "startFrame": 491,
+    "endFrame": 515
+  },
+  {
+    "word": "The",
+    "start": 17.78,
+    "end": 18.2,
+    "startFrame": 533,
+    "endFrame": 546
+  },
+  {
+    "word": "most",
+    "start": 18.2,
+    "end": 18.44,
+    "startFrame": 546,
+    "endFrame": 553
+  },
+  {
+    "word": "humiliating",
+    "start": 18.44,
+    "end": 19.16,
+    "startFrame": 553,
+    "endFrame": 575
+  },
+  {
+    "word": "turning",
+    "start": 19.16,
+    "end": 19.46,
+    "startFrame": 575,
+    "endFrame": 584
+  },
+  {
+    "word": "point",
+    "start": 19.46,
+    "end": 19.8,
+    "startFrame": 584,
+    "endFrame": 594
+  },
+  {
+    "word": "arrived",
+    "start": 19.8,
+    "end": 20.4,
+    "startFrame": 594,
+    "endFrame": 612
+  },
+  {
+    "word": "at",
+    "start": 20.4,
+    "end": 20.72,
+    "startFrame": 612,
+    "endFrame": 622
+  },
+  {
+    "word": "the",
+    "start": 20.72,
+    "end": 20.84,
+    "startFrame": 622,
+    "endFrame": 625
+  },
+  {
+    "word": "1988",
+    "start": 20.84,
+    "end": 21.58,
+    "startFrame": 625,
+    "endFrame": 647
+  },
+  {
+    "word": "Seoul",
+    "start": 21.58,
+    "end": 22.16,
+    "startFrame": 647,
+    "endFrame": 665
+  },
+  {
+    "word": "Olympics.",
+    "start": 22.16,
+    "end": 22.54,
+    "startFrame": 665,
+    "endFrame": 676
+  },
+  {
+    "word": "As",
+    "start": 23.28,
+    "end": 23.5,
+    "startFrame": 698,
+    "endFrame": 705
+  },
+  {
+    "word": "a",
+    "start": 23.5,
+    "end": 23.56,
+    "startFrame": 705,
+    "endFrame": 707
+  },
+  {
+    "word": "nation",
+    "start": 23.56,
+    "end": 23.86,
+    "startFrame": 707,
+    "endFrame": 716
+  },
+  {
+    "word": "of",
+    "start": 23.86,
+    "end": 24.08,
+    "startFrame": 716,
+    "endFrame": 722
+  },
+  {
+    "word": "over",
+    "start": 24.08,
+    "end": 24.3,
+    "startFrame": 722,
+    "endFrame": 729
+  },
+  {
+    "word": "one",
+    "start": 24.3,
+    "end": 24.6,
+    "startFrame": 729,
+    "endFrame": 738
+  },
+  {
+    "word": "billion",
+    "start": 24.6,
+    "end": 24.86,
+    "startFrame": 738,
+    "endFrame": 746
+  },
+  {
+    "word": "people,",
+    "start": 24.86,
+    "end": 25.38,
+    "startFrame": 746,
+    "endFrame": 761
+  },
+  {
+    "word": "China's",
+    "start": 25.8,
+    "end": 26.22,
+    "startFrame": 774,
+    "endFrame": 787
+  },
+  {
+    "word": "delegation",
+    "start": 26.22,
+    "end": 26.74,
+    "startFrame": 787,
+    "endFrame": 802
+  },
+  {
+    "word": "managed",
+    "start": 26.74,
+    "end": 27.16,
+    "startFrame": 802,
+    "endFrame": 815
+  },
+  {
+    "word": "to",
+    "start": 27.16,
+    "end": 27.42,
+    "startFrame": 815,
+    "endFrame": 823
+  },
+  {
+    "word": "bring",
+    "start": 27.42,
+    "end": 27.58,
+    "startFrame": 823,
+    "endFrame": 827
+  },
+  {
+    "word": "home",
+    "start": 27.58,
+    "end": 27.94,
+    "startFrame": 827,
+    "endFrame": 838
+  },
+  {
+    "word": "only",
+    "start": 27.94,
+    "end": 28.4,
+    "startFrame": 838,
+    "endFrame": 852
+  },
+  {
+    "word": "five",
+    "start": 28.4,
+    "end": 28.9,
+    "startFrame": 852,
+    "endFrame": 867
+  },
+  {
+    "word": "gold",
+    "start": 28.9,
+    "end": 29.16,
+    "startFrame": 867,
+    "endFrame": 875
+  },
+  {
+    "word": "medals.",
+    "start": 29.16,
+    "end": 29.5,
+    "startFrame": 875,
+    "endFrame": 885
+  },
+  {
+    "word": "Crashing",
+    "start": 29.5,
+    "end": 30.44,
+    "startFrame": 885,
+    "endFrame": 913
+  },
+  {
+    "word": "down",
+    "start": 30.44,
+    "end": 30.74,
+    "startFrame": 913,
+    "endFrame": 922
+  },
+  {
+    "word": "to",
+    "start": 30.74,
+    "end": 30.98,
+    "startFrame": 922,
+    "endFrame": 929
+  },
+  {
+    "word": "11th",
+    "start": 30.98,
+    "end": 31.5,
+    "startFrame": 929,
+    "endFrame": 945
+  },
+  {
+    "word": "place",
+    "start": 31.5,
+    "end": 31.68,
+    "startFrame": 945,
+    "endFrame": 950
+  },
+  {
+    "word": "globally.",
+    "start": 31.68,
+    "end": 32.22,
+    "startFrame": 950,
+    "endFrame": 967
+  },
+  {
+    "word": "This",
+    "start": 32.72,
+    "end": 33.24,
+    "startFrame": 982,
+    "endFrame": 997
+  },
+  {
+    "word": "failure",
+    "start": 33.24,
+    "end": 33.64,
+    "startFrame": 997,
+    "endFrame": 1009
+  },
+  {
+    "word": "was",
+    "start": 33.64,
+    "end": 33.86,
+    "startFrame": 1009,
+    "endFrame": 1016
+  },
+  {
+    "word": "seen",
+    "start": 33.86,
+    "end": 34.16,
+    "startFrame": 1016,
+    "endFrame": 1025
+  },
+  {
+    "word": "as",
+    "start": 34.16,
+    "end": 34.36,
+    "startFrame": 1025,
+    "endFrame": 1031
+  },
+  {
+    "word": "a",
+    "start": 34.36,
+    "end": 34.46,
+    "startFrame": 1031,
+    "endFrame": 1034
+  },
+  {
+    "word": "national",
+    "start": 34.46,
+    "end": 34.86,
+    "startFrame": 1034,
+    "endFrame": 1046
+  },
+  {
+    "word": "crisis",
+    "start": 34.86,
+    "end": 35.32,
+    "startFrame": 1046,
+    "endFrame": 1060
+  },
+  {
+    "word": "of",
+    "start": 35.32,
+    "end": 35.6,
+    "startFrame": 1060,
+    "endFrame": 1068
+  },
+  {
+    "word": "dignity,",
+    "start": 35.6,
+    "end": 35.92,
+    "startFrame": 1068,
+    "endFrame": 1078
+  },
+  {
+    "word": "triggering",
+    "start": 36.48,
+    "end": 36.76,
+    "startFrame": 1094,
+    "endFrame": 1103
+  },
+  {
+    "word": "a",
+    "start": 36.76,
+    "end": 36.98,
+    "startFrame": 1103,
+    "endFrame": 1109
+  },
+  {
+    "word": "complete",
+    "start": 36.98,
+    "end": 37.36,
+    "startFrame": 1109,
+    "endFrame": 1121
+  },
+  {
+    "word": "overhaul",
+    "start": 37.36,
+    "end": 38.02,
+    "startFrame": 1121,
+    "endFrame": 1141
+  },
+  {
+    "word": "of",
+    "start": 38.02,
+    "end": 38.32,
+    "startFrame": 1141,
+    "endFrame": 1150
+  },
+  {
+    "word": "the",
+    "start": 38.32,
+    "end": 38.4,
+    "startFrame": 1150,
+    "endFrame": 1152
+  },
+  {
+    "word": "country's",
+    "start": 38.4,
+    "end": 38.94,
+    "startFrame": 1152,
+    "endFrame": 1168
+  },
+  {
+    "word": "entire",
+    "start": 38.94,
+    "end": 39.28,
+    "startFrame": 1168,
+    "endFrame": 1178
+  },
+  {
+    "word": "sports",
+    "start": 39.28,
+    "end": 39.74,
+    "startFrame": 1178,
+    "endFrame": 1192
+  },
+  {
+    "word": "policy.",
+    "start": 39.74,
+    "end": 40.32,
+    "startFrame": 1192,
+    "endFrame": 1210
+  },
+  {
+    "word": "The",
+    "start": 41.08,
+    "end": 41.28,
+    "startFrame": 1232,
+    "endFrame": 1238
+  },
+  {
+    "word": "results",
+    "start": 41.28,
+    "end": 41.6,
+    "startFrame": 1238,
+    "endFrame": 1248
+  },
+  {
+    "word": "were",
+    "start": 41.6,
+    "end": 41.84,
+    "startFrame": 1248,
+    "endFrame": 1255
+  },
+  {
+    "word": "astonishing.",
+    "start": 41.84,
+    "end": 42.34,
+    "startFrame": 1255,
+    "endFrame": 1270
+  },
+  {
+    "word": "At",
+    "start": 43.34,
+    "end": 43.44,
+    "startFrame": 1300,
+    "endFrame": 1303
+  },
+  {
+    "word": "the",
+    "start": 43.44,
+    "end": 43.6,
+    "startFrame": 1303,
+    "endFrame": 1308
+  },
+  {
+    "word": "Asian",
+    "start": 43.6,
+    "end": 43.86,
+    "startFrame": 1308,
+    "endFrame": 1316
+  },
+  {
+    "word": "Games,",
+    "start": 43.86,
+    "end": 44.3,
+    "startFrame": 1316,
+    "endFrame": 1329
+  },
+  {
+    "word": "China",
+    "start": 44.88,
+    "end": 45.06,
+    "startFrame": 1346,
+    "endFrame": 1352
+  },
+  {
+    "word": "has",
+    "start": 45.06,
+    "end": 45.36,
+    "startFrame": 1352,
+    "endFrame": 1361
+  },
+  {
+    "word": "remained",
+    "start": 45.36,
+    "end": 45.68,
+    "startFrame": 1361,
+    "endFrame": 1370
+  },
+  {
+    "word": "undefeated,",
+    "start": 45.68,
+    "end": 46.56,
+    "startFrame": 1370,
+    "endFrame": 1397
+  },
+  {
+    "word": "standing",
+    "start": 47.06,
+    "end": 47.46,
+    "startFrame": 1412,
+    "endFrame": 1424
+  },
+  {
+    "word": "as",
+    "start": 47.46,
+    "end": 47.74,
+    "startFrame": 1424,
+    "endFrame": 1432
+  },
+  {
+    "word": "the",
+    "start": 47.74,
+    "end": 47.88,
+    "startFrame": 1432,
+    "endFrame": 1436
+  },
+  {
+    "word": "undisputed",
+    "start": 47.88,
+    "end": 48.66,
+    "startFrame": 1436,
+    "endFrame": 1460
+  },
+  {
+    "word": "overall",
+    "start": 48.66,
+    "end": 49.12,
+    "startFrame": 1460,
+    "endFrame": 1474
+  },
+  {
+    "word": "champion",
+    "start": 49.12,
+    "end": 49.66,
+    "startFrame": 1474,
+    "endFrame": 1490
+  },
+  {
+    "word": "from",
+    "start": 49.66,
+    "end": 49.94,
+    "startFrame": 1490,
+    "endFrame": 1498
+  },
+  {
+    "word": "New",
+    "start": 49.94,
+    "end": 50.1,
+    "startFrame": 1498,
+    "endFrame": 1503
+  },
+  {
+    "word": "Delhi",
+    "start": 50.1,
+    "end": 50.34,
+    "startFrame": 1503,
+    "endFrame": 1510
+  },
+  {
+    "word": "in",
+    "start": 50.34,
+    "end": 50.54,
+    "startFrame": 1510,
+    "endFrame": 1516
+  },
+  {
+    "word": "1982",
+    "start": 50.54,
+    "end": 51.3,
+    "startFrame": 1516,
+    "endFrame": 1539
+  },
+  {
+    "word": "all",
+    "start": 51.3,
+    "end": 51.92,
+    "startFrame": 1539,
+    "endFrame": 1558
+  },
+  {
+    "word": "the",
+    "start": 51.92,
+    "end": 52.06,
+    "startFrame": 1558,
+    "endFrame": 1562
+  },
+  {
+    "word": "way",
+    "start": 52.06,
+    "end": 52.22,
+    "startFrame": 1562,
+    "endFrame": 1567
+  },
+  {
+    "word": "to",
+    "start": 52.22,
+    "end": 52.38,
+    "startFrame": 1567,
+    "endFrame": 1571
+  },
+  {
+    "word": "this",
+    "start": 52.38,
+    "end": 52.54,
+    "startFrame": 1571,
+    "endFrame": 1576
+  },
+  {
+    "word": "day.",
+    "start": 52.54,
+    "end": 52.74,
+    "startFrame": 1576,
+    "endFrame": 1582
+  },
+  {
+    "word": "At",
+    "start": 53.44,
+    "end": 53.74,
+    "startFrame": 1603,
+    "endFrame": 1612
+  },
+  {
+    "word": "the",
+    "start": 53.74,
+    "end": 53.84,
+    "startFrame": 1612,
+    "endFrame": 1615
+  },
+  {
+    "word": "2008",
+    "start": 53.84,
+    "end": 54.62,
+    "startFrame": 1615,
+    "endFrame": 1639
+  },
+  {
+    "word": "Beijing",
+    "start": 54.62,
+    "end": 55.42,
+    "startFrame": 1639,
+    "endFrame": 1663
+  },
+  {
+    "word": "Olympics,",
+    "start": 55.42,
+    "end": 55.84,
+    "startFrame": 1663,
+    "endFrame": 1675
+  },
+  {
+    "word": "China",
+    "start": 56.56,
+    "end": 56.76,
+    "startFrame": 1697,
+    "endFrame": 1703
+  },
+  {
+    "word": "officially",
+    "start": 56.76,
+    "end": 57.3,
+    "startFrame": 1703,
+    "endFrame": 1719
+  },
+  {
+    "word": "topped",
+    "start": 57.3,
+    "end": 57.62,
+    "startFrame": 1719,
+    "endFrame": 1729
+  },
+  {
+    "word": "the",
+    "start": 57.62,
+    "end": 57.86,
+    "startFrame": 1729,
+    "endFrame": 1736
+  },
+  {
+    "word": "World",
+    "start": 57.86,
+    "end": 58.12,
+    "startFrame": 1736,
+    "endFrame": 1744
+  },
+  {
+    "word": "Medal",
+    "start": 58.12,
+    "end": 58.34,
+    "startFrame": 1744,
+    "endFrame": 1750
+  },
+  {
+    "word": "table",
+    "start": 58.34,
+    "end": 58.8,
+    "startFrame": 1750,
+    "endFrame": 1764
+  },
+  {
+    "word": "with",
+    "start": 58.8,
+    "end": 59.14,
+    "startFrame": 1764,
+    "endFrame": 1774
+  },
+  {
+    "word": "four",
+    "start": 59.14,
+    "end": 59.44,
+    "startFrame": 1774,
+    "endFrame": 1783
+  },
+  {
+    "word": "gold",
+    "start": 59.44,
+    "end": 59.48,
+    "startFrame": 1783,
+    "endFrame": 1784
+  },
+  {
+    "word": "medals.",
+    "start": 59.48,
+    "end": 59.48,
+    "startFrame": 1784,
+    "endFrame": 1786
+  },
+  {
+    "word": "38",
+    "start": 59.48,
+    "end": 59.74,
+    "startFrame": 1784,
+    "endFrame": 1792
+  },
+  {
+    "word": "gold",
+    "start": 59.74,
+    "end": 60.08,
+    "startFrame": 1792,
+    "endFrame": 1802
+  },
+  {
+    "word": "medals,",
+    "start": 60.08,
+    "end": 60.5,
+    "startFrame": 1802,
+    "endFrame": 1815
+  },
+  {
+    "word": "dethroning",
+    "start": 61.02,
+    "end": 61.5,
+    "startFrame": 1831,
+    "endFrame": 1845
+  },
+  {
+    "word": "the",
+    "start": 61.5,
+    "end": 61.7,
+    "startFrame": 1845,
+    "endFrame": 1851
+  },
+  {
+    "word": "United",
+    "start": 61.7,
+    "end": 61.96,
+    "startFrame": 1851,
+    "endFrame": 1859
+  },
+  {
+    "word": "States.",
+    "start": 61.96,
+    "end": 62.56,
+    "startFrame": 1859,
+    "endFrame": 1877
+  },
+  {
+    "word": "And",
+    "start": 62.86,
+    "end": 63.54,
+    "startFrame": 1886,
+    "endFrame": 1906
+  },
+  {
+    "word": "through",
+    "start": 63.54,
+    "end": 63.74,
+    "startFrame": 1906,
+    "endFrame": 1912
+  },
+  {
+    "word": "the",
+    "start": 63.74,
+    "end": 63.88,
+    "startFrame": 1912,
+    "endFrame": 1916
+  },
+  {
+    "word": "Tokyo",
+    "start": 63.88,
+    "end": 64.3,
+    "startFrame": 1916,
+    "endFrame": 1929
+  },
+  {
+    "word": "2020",
+    "start": 64.3,
+    "end": 64.92,
+    "startFrame": 1929,
+    "endFrame": 1948
+  },
+  {
+    "word": "and",
+    "start": 64.92,
+    "end": 65.42,
+    "startFrame": 1948,
+    "endFrame": 1963
+  },
+  {
+    "word": "Paris",
+    "start": 65.42,
+    "end": 65.7,
+    "startFrame": 1963,
+    "endFrame": 1971
+  },
+  {
+    "word": "2024",
+    "start": 65.7,
+    "end": 66.38,
+    "startFrame": 1971,
+    "endFrame": 1991
+  },
+  {
+    "word": "games,",
+    "start": 66.38,
+    "end": 67.18,
+    "startFrame": 1991,
+    "endFrame": 2015
+  },
+  {
+    "word": "China",
+    "start": 67.74,
+    "end": 67.98,
+    "startFrame": 2032,
+    "endFrame": 2039
+  },
+  {
+    "word": "has",
+    "start": 67.98,
+    "end": 68.26,
+    "startFrame": 2039,
+    "endFrame": 2048
+  },
+  {
+    "word": "consistently",
+    "start": 68.26,
+    "end": 68.88,
+    "startFrame": 2048,
+    "endFrame": 2066
+  },
+  {
+    "word": "battled",
+    "start": 68.88,
+    "end": 69.42,
+    "startFrame": 2066,
+    "endFrame": 2083
+  },
+  {
+    "word": "head",
+    "start": 69.42,
+    "end": 69.7,
+    "startFrame": 2083,
+    "endFrame": 2091
+  },
+  {
+    "word": "to",
+    "start": 69.7,
+    "end": 69.82,
+    "startFrame": 2091,
+    "endFrame": 2095
+  },
+  {
+    "word": "head",
+    "start": 69.82,
+    "end": 70.06,
+    "startFrame": 2095,
+    "endFrame": 2102
+  },
+  {
+    "word": "for",
+    "start": 70.06,
+    "end": 70.48,
+    "startFrame": 2102,
+    "endFrame": 2114
+  },
+  {
+    "word": "the",
+    "start": 70.48,
+    "end": 70.6,
+    "startFrame": 2114,
+    "endFrame": 2118
+  },
+  {
+    "word": "top",
+    "start": 70.6,
+    "end": 70.82,
+    "startFrame": 2118,
+    "endFrame": 2125
+  },
+  {
+    "word": "spot",
+    "start": 70.82,
+    "end": 71.16,
+    "startFrame": 2125,
+    "endFrame": 2135
+  },
+  {
+    "word": "against",
+    "start": 71.16,
+    "end": 71.58,
+    "startFrame": 2135,
+    "endFrame": 2147
+  },
+  {
+    "word": "America.",
+    "start": 71.58,
+    "end": 72.0,
+    "startFrame": 2147,
+    "endFrame": 2160
+  },
+  {
+    "word": "How",
+    "start": 72.94,
+    "end": 73.1,
+    "startFrame": 2188,
+    "endFrame": 2193
+  },
+  {
+    "word": "did",
+    "start": 73.1,
+    "end": 73.22,
+    "startFrame": 2193,
+    "endFrame": 2197
+  },
+  {
+    "word": "a",
+    "start": 73.22,
+    "end": 73.3,
+    "startFrame": 2197,
+    "endFrame": 2199
+  },
+  {
+    "word": "developing",
+    "start": 73.3,
+    "end": 73.76,
+    "startFrame": 2199,
+    "endFrame": 2213
+  },
+  {
+    "word": "nation",
+    "start": 73.76,
+    "end": 74.22,
+    "startFrame": 2213,
+    "endFrame": 2227
+  },
+  {
+    "word": "transform",
+    "start": 74.22,
+    "end": 74.96,
+    "startFrame": 2227,
+    "endFrame": 2249
+  },
+  {
+    "word": "into",
+    "start": 74.96,
+    "end": 75.22,
+    "startFrame": 2249,
+    "endFrame": 2257
+  },
+  {
+    "word": "the",
+    "start": 75.22,
+    "end": 75.36,
+    "startFrame": 2257,
+    "endFrame": 2261
+  },
+  {
+    "word": "world's",
+    "start": 75.36,
+    "end": 75.86,
+    "startFrame": 2261,
+    "endFrame": 2276
+  },
+  {
+    "word": "most",
+    "start": 75.86,
+    "end": 76.28,
+    "startFrame": 2276,
+    "endFrame": 2288
+  },
+  {
+    "word": "dominant",
+    "start": 76.28,
+    "end": 76.74,
+    "startFrame": 2288,
+    "endFrame": 2302
+  },
+  {
+    "word": "sports",
+    "start": 76.74,
+    "end": 77.22,
+    "startFrame": 2302,
+    "endFrame": 2317
+  },
+  {
+    "word": "juggernaut",
+    "start": 77.22,
+    "end": 77.96,
+    "startFrame": 2317,
+    "endFrame": 2339
+  },
+  {
+    "word": "in",
+    "start": 77.96,
+    "end": 78.14,
+    "startFrame": 2339,
+    "endFrame": 2344
+  },
+  {
+    "word": "just",
+    "start": 78.14,
+    "end": 78.32,
+    "startFrame": 2344,
+    "endFrame": 2350
+  },
+  {
+    "word": "two",
+    "start": 78.32,
+    "end": 78.62,
+    "startFrame": 2350,
+    "endFrame": 2359
+  },
+  {
+    "word": "decades?",
+    "start": 78.62,
+    "end": 78.96,
+    "startFrame": 2359,
+    "endFrame": 2369
+  },
+  {
+    "word": "The",
+    "start": 79.86,
+    "end": 80.1,
+    "startFrame": 2396,
+    "endFrame": 2403
+  },
+  {
+    "word": "first",
+    "start": 80.1,
+    "end": 80.38,
+    "startFrame": 2403,
+    "endFrame": 2411
+  },
+  {
+    "word": "pillar",
+    "start": 80.38,
+    "end": 80.64,
+    "startFrame": 2411,
+    "endFrame": 2419
+  },
+  {
+    "word": "is",
+    "start": 80.64,
+    "end": 80.94,
+    "startFrame": 2419,
+    "endFrame": 2428
+  },
+  {
+    "word": "the",
+    "start": 80.94,
+    "end": 81.1,
+    "startFrame": 2428,
+    "endFrame": 2433
+  },
+  {
+    "word": "Juguo",
+    "start": 81.1,
+    "end": 81.64,
+    "startFrame": 2433,
+    "endFrame": 2449
+  },
+  {
+    "word": "Tizhi",
+    "start": 81.64,
+    "end": 81.98,
+    "startFrame": 2449,
+    "endFrame": 2459
+  },
+  {
+    "word": "system,",
+    "start": 81.98,
+    "end": 82.52,
+    "startFrame": 2459,
+    "endFrame": 2476
+  },
+  {
+    "word": "meaning",
+    "start": 82.9,
+    "end": 83.04,
+    "startFrame": 2487,
+    "endFrame": 2491
+  },
+  {
+    "word": "the",
+    "start": 83.04,
+    "end": 83.26,
+    "startFrame": 2491,
+    "endFrame": 2498
+  },
+  {
+    "word": "whole",
+    "start": 83.26,
+    "end": 83.46,
+    "startFrame": 2498,
+    "endFrame": 2504
+  },
+  {
+    "word": "nation",
+    "start": 83.46,
+    "end": 83.82,
+    "startFrame": 2504,
+    "endFrame": 2515
+  },
+  {
+    "word": "system.",
+    "start": 83.82,
+    "end": 84.3,
+    "startFrame": 2515,
+    "endFrame": 2529
+  },
+  {
+    "word": "This",
+    "start": 84.3,
+    "end": 85.12,
+    "startFrame": 2529,
+    "endFrame": 2554
+  },
+  {
+    "word": "represents",
+    "start": 85.12,
+    "end": 85.66,
+    "startFrame": 2554,
+    "endFrame": 2570
+  },
+  {
+    "word": "the",
+    "start": 85.66,
+    "end": 85.92,
+    "startFrame": 2570,
+    "endFrame": 2578
+  },
+  {
+    "word": "total",
+    "start": 85.92,
+    "end": 86.28,
+    "startFrame": 2578,
+    "endFrame": 2588
+  },
+  {
+    "word": "mobilization",
+    "start": 86.28,
+    "end": 87.04,
+    "startFrame": 2588,
+    "endFrame": 2611
+  },
+  {
+    "word": "of",
+    "start": 87.04,
+    "end": 87.36,
+    "startFrame": 2611,
+    "endFrame": 2621
+  },
+  {
+    "word": "the",
+    "start": 87.36,
+    "end": 87.52,
+    "startFrame": 2621,
+    "endFrame": 2626
+  },
+  {
+    "word": "entire",
+    "start": 87.52,
+    "end": 87.88,
+    "startFrame": 2626,
+    "endFrame": 2636
+  },
+  {
+    "word": "country's",
+    "start": 87.88,
+    "end": 88.54,
+    "startFrame": 2636,
+    "endFrame": 2656
+  },
+  {
+    "word": "resources",
+    "start": 88.54,
+    "end": 89.04,
+    "startFrame": 2656,
+    "endFrame": 2671
+  },
+  {
+    "word": "toward",
+    "start": 89.04,
+    "end": 89.6,
+    "startFrame": 2671,
+    "endFrame": 2688
+  },
+  {
+    "word": "a",
+    "start": 89.6,
+    "end": 89.84,
+    "startFrame": 2688,
+    "endFrame": 2695
+  },
+  {
+    "word": "single",
+    "start": 89.84,
+    "end": 90.14,
+    "startFrame": 2695,
+    "endFrame": 2704
+  },
+  {
+    "word": "objective,",
+    "start": 90.14,
+    "end": 90.82,
+    "startFrame": 2704,
+    "endFrame": 2725
+  },
+  {
+    "word": "global",
+    "start": 91.4,
+    "end": 91.76,
+    "startFrame": 2742,
+    "endFrame": 2753
+  },
+  {
+    "word": "sporting",
+    "start": 91.76,
+    "end": 92.26,
+    "startFrame": 2753,
+    "endFrame": 2768
+  },
+  {
+    "word": "triumph.",
+    "start": 92.26,
+    "end": 92.7,
+    "startFrame": 2768,
+    "endFrame": 2781
+  },
+  {
+    "word": "It",
+    "start": 93.5,
+    "end": 93.76,
+    "startFrame": 2805,
+    "endFrame": 2813
+  },
+  {
+    "word": "starts",
+    "start": 93.76,
+    "end": 94.0,
+    "startFrame": 2813,
+    "endFrame": 2820
+  },
+  {
+    "word": "with",
+    "start": 94.0,
+    "end": 94.2,
+    "startFrame": 2820,
+    "endFrame": 2826
+  },
+  {
+    "word": "a",
+    "start": 94.2,
+    "end": 94.3,
+    "startFrame": 2826,
+    "endFrame": 2829
+  },
+  {
+    "word": "selection",
+    "start": 94.3,
+    "end": 94.7,
+    "startFrame": 2829,
+    "endFrame": 2841
+  },
+  {
+    "word": "pyramid",
+    "start": 94.7,
+    "end": 95.24,
+    "startFrame": 2841,
+    "endFrame": 2857
+  },
+  {
+    "word": "from",
+    "start": 95.24,
+    "end": 95.5,
+    "startFrame": 2857,
+    "endFrame": 2865
+  },
+  {
+    "word": "early",
+    "start": 95.5,
+    "end": 95.86,
+    "startFrame": 2865,
+    "endFrame": 2876
+  },
+  {
+    "word": "childhood.",
+    "start": 95.86,
+    "end": 96.36,
+    "startFrame": 2876,
+    "endFrame": 2891
+  },
+  {
+    "word": "The",
+    "start": 96.96,
+    "end": 97.16,
+    "startFrame": 2909,
+    "endFrame": 2915
+  },
+  {
+    "word": "state",
+    "start": 97.16,
+    "end": 97.4,
+    "startFrame": 2915,
+    "endFrame": 2922
+  },
+  {
+    "word": "operates",
+    "start": 97.4,
+    "end": 97.86,
+    "startFrame": 2922,
+    "endFrame": 2936
+  },
+  {
+    "word": "more",
+    "start": 97.86,
+    "end": 98.2,
+    "startFrame": 2936,
+    "endFrame": 2946
+  },
+  {
+    "word": "than",
+    "start": 98.2,
+    "end": 98.38,
+    "startFrame": 2946,
+    "endFrame": 2951
+  },
+  {
+    "word": "3000",
+    "start": 98.38,
+    "end": 99.14,
+    "startFrame": 2951,
+    "endFrame": 2974
+  },
+  {
+    "word": "specialized",
+    "start": 99.14,
+    "end": 99.82,
+    "startFrame": 2974,
+    "endFrame": 2995
+  },
+  {
+    "word": "sports",
+    "start": 99.82,
+    "end": 100.28,
+    "startFrame": 2995,
+    "endFrame": 3008
+  },
+  {
+    "word": "sporting",
+    "start": 100.28,
+    "end": 100.68,
+    "startFrame": 3008,
+    "endFrame": 3020
+  },
+  {
+    "word": "schools.",
+    "start": 100.68,
+    "end": 101.14,
+    "startFrame": 3020,
+    "endFrame": 3034
+  },
+  {
+    "word": "Government",
+    "start": 101.14,
+    "end": 102.14,
+    "startFrame": 3034,
+    "endFrame": 3064
+  },
+  {
+    "word": "scouts",
+    "start": 102.14,
+    "end": 102.66,
+    "startFrame": 3064,
+    "endFrame": 3080
+  },
+  {
+    "word": "comb",
+    "start": 102.66,
+    "end": 102.94,
+    "startFrame": 3080,
+    "endFrame": 3088
+  },
+  {
+    "word": "through",
+    "start": 102.94,
+    "end": 103.24,
+    "startFrame": 3088,
+    "endFrame": 3097
+  },
+  {
+    "word": "kindergarten",
+    "start": 103.24,
+    "end": 103.6,
+    "startFrame": 3097,
+    "endFrame": 3108
+  },
+  {
+    "word": "and",
+    "start": 103.6,
+    "end": 104.1,
+    "startFrame": 3108,
+    "endFrame": 3123
+  },
+  {
+    "word": "primary",
+    "start": 104.1,
+    "end": 104.4,
+    "startFrame": 3123,
+    "endFrame": 3132
+  },
+  {
+    "word": "schools",
+    "start": 104.4,
+    "end": 104.88,
+    "startFrame": 3132,
+    "endFrame": 3146
+  },
+  {
+    "word": "across",
+    "start": 104.88,
+    "end": 105.26,
+    "startFrame": 3146,
+    "endFrame": 3158
+  },
+  {
+    "word": "the",
+    "start": 105.26,
+    "end": 105.5,
+    "startFrame": 3158,
+    "endFrame": 3165
+  },
+  {
+    "word": "country,",
+    "start": 105.5,
+    "end": 105.92,
+    "startFrame": 3165,
+    "endFrame": 3178
+  },
+  {
+    "word": "looking",
+    "start": 106.3,
+    "end": 106.56,
+    "startFrame": 3189,
+    "endFrame": 3197
+  },
+  {
+    "word": "for",
+    "start": 106.56,
+    "end": 106.78,
+    "startFrame": 3197,
+    "endFrame": 3203
+  },
+  {
+    "word": "children",
+    "start": 106.78,
+    "end": 107.16,
+    "startFrame": 3203,
+    "endFrame": 3215
+  },
+  {
+    "word": "aged",
+    "start": 107.16,
+    "end": 107.56,
+    "startFrame": 3215,
+    "endFrame": 3227
+  },
+  {
+    "word": "four",
+    "start": 107.56,
+    "end": 107.86,
+    "startFrame": 3227,
+    "endFrame": 3236
+  },
+  {
+    "word": "to",
+    "start": 107.86,
+    "end": 108.0,
+    "startFrame": 3236,
+    "endFrame": 3240
+  },
+  {
+    "word": "six",
+    "start": 108.0,
+    "end": 108.26,
+    "startFrame": 3240,
+    "endFrame": 3248
+  },
+  {
+    "word": "with",
+    "start": 108.26,
+    "end": 108.54,
+    "startFrame": 3248,
+    "endFrame": 3256
+  },
+  {
+    "word": "exceptional",
+    "start": 108.54,
+    "end": 109.0,
+    "startFrame": 3256,
+    "endFrame": 3270
+  },
+  {
+    "word": "physical",
+    "start": 109.0,
+    "end": 109.46,
+    "startFrame": 3270,
+    "endFrame": 3284
+  },
+  {
+    "word": "traits",
+    "start": 109.46,
+    "end": 109.86,
+    "startFrame": 3284,
+    "endFrame": 3296
+  },
+  {
+    "word": "such",
+    "start": 109.86,
+    "end": 110.56,
+    "startFrame": 3296,
+    "endFrame": 3317
+  },
+  {
+    "word": "as",
+    "start": 110.56,
+    "end": 110.72,
+    "startFrame": 3317,
+    "endFrame": 3322
+  },
+  {
+    "word": "wingspan,",
+    "start": 110.72,
+    "end": 111.2,
+    "startFrame": 3322,
+    "endFrame": 3336
+  },
+  {
+    "word": "joint",
+    "start": 111.76,
+    "end": 112.0,
+    "startFrame": 3353,
+    "endFrame": 3360
+  },
+  {
+    "word": "flexibility",
+    "start": 112.0,
+    "end": 112.48,
+    "startFrame": 3360,
+    "endFrame": 3374
+  },
+  {
+    "word": "and",
+    "start": 112.48,
+    "end": 113.18,
+    "startFrame": 3374,
+    "endFrame": 3395
+  },
+  {
+    "word": "muscle",
+    "start": 113.18,
+    "end": 113.48,
+    "startFrame": 3395,
+    "endFrame": 3404
+  },
+  {
+    "word": "density.",
+    "start": 113.48,
+    "end": 113.96,
+    "startFrame": 3404,
+    "endFrame": 3419
+  },
+  {
+    "word": "Once",
+    "start": 114.7,
+    "end": 115.12,
+    "startFrame": 3441,
+    "endFrame": 3454
+  },
+  {
+    "word": "drafted",
+    "start": 115.12,
+    "end": 115.52,
+    "startFrame": 3454,
+    "endFrame": 3466
+  },
+  {
+    "word": "into",
+    "start": 115.52,
+    "end": 115.76,
+    "startFrame": 3466,
+    "endFrame": 3473
+  },
+  {
+    "word": "the",
+    "start": 115.76,
+    "end": 115.88,
+    "startFrame": 3473,
+    "endFrame": 3476
+  },
+  {
+    "word": "system,",
+    "start": 115.88,
+    "end": 116.24,
+    "startFrame": 3476,
+    "endFrame": 3487
+  },
+  {
+    "word": "everything",
+    "start": 116.68,
+    "end": 116.98,
+    "startFrame": 3500,
+    "endFrame": 3509
+  },
+  {
+    "word": "is",
+    "start": 116.98,
+    "end": 117.22,
+    "startFrame": 3509,
+    "endFrame": 3517
+  },
+  {
+    "word": "fully",
+    "start": 117.22,
+    "end": 117.52,
+    "startFrame": 3517,
+    "endFrame": 3526
+  },
+  {
+    "word": "funded",
+    "start": 117.52,
+    "end": 117.94,
+    "startFrame": 3526,
+    "endFrame": 3538
+  },
+  {
+    "word": "by",
+    "start": 117.94,
+    "end": 118.16,
+    "startFrame": 3538,
+    "endFrame": 3545
+  },
+  {
+    "word": "the",
+    "start": 118.16,
+    "end": 118.28,
+    "startFrame": 3545,
+    "endFrame": 3548
+  },
+  {
+    "word": "state.",
+    "start": 118.28,
+    "end": 118.6,
+    "startFrame": 3548,
+    "endFrame": 3558
+  },
+  {
+    "word": "Young",
+    "start": 119.26,
+    "end": 119.44,
+    "startFrame": 3578,
+    "endFrame": 3583
+  },
+  {
+    "word": "athletes",
+    "start": 119.44,
+    "end": 119.84,
+    "startFrame": 3583,
+    "endFrame": 3595
+  },
+  {
+    "word": "live",
+    "start": 119.84,
+    "end": 120.3,
+    "startFrame": 3595,
+    "endFrame": 3609
+  },
+  {
+    "word": "in",
+    "start": 120.3,
+    "end": 120.54,
+    "startFrame": 3609,
+    "endFrame": 3616
+  },
+  {
+    "word": "dedicated",
+    "start": 120.54,
+    "end": 120.92,
+    "startFrame": 3616,
+    "endFrame": 3628
+  },
+  {
+    "word": "training",
+    "start": 120.92,
+    "end": 121.42,
+    "startFrame": 3628,
+    "endFrame": 3643
+  },
+  {
+    "word": "compounds,",
+    "start": 121.42,
+    "end": 121.92,
+    "startFrame": 3643,
+    "endFrame": 3658
+  },
+  {
+    "word": "housing,",
+    "start": 122.66,
+    "end": 123.18,
+    "startFrame": 3680,
+    "endFrame": 3695
+  },
+  {
+    "word": "nutrition,",
+    "start": 123.76,
+    "end": 124.14,
+    "startFrame": 3713,
+    "endFrame": 3724
+  },
+  {
+    "word": "world",
+    "start": 124.76,
+    "end": 124.92,
+    "startFrame": 3743,
+    "endFrame": 3748
+  },
+  {
+    "word": "-class",
+    "start": 124.92,
+    "end": 125.18,
+    "startFrame": 3748,
+    "endFrame": 3755
+  },
+  {
+    "word": "training",
+    "start": 125.18,
+    "end": 125.54,
+    "startFrame": 3755,
+    "endFrame": 3766
+  },
+  {
+    "word": "facilities",
+    "start": 125.54,
+    "end": 126.1,
+    "startFrame": 3766,
+    "endFrame": 3783
+  },
+  {
+    "word": "and",
+    "start": 126.1,
+    "end": 126.72,
+    "startFrame": 3783,
+    "endFrame": 3802
+  },
+  {
+    "word": "elite",
+    "start": 126.72,
+    "end": 127.0,
+    "startFrame": 3802,
+    "endFrame": 3810
+  },
+  {
+    "word": "coaching",
+    "start": 127.0,
+    "end": 127.5,
+    "startFrame": 3810,
+    "endFrame": 3825
+  },
+  {
+    "word": "are",
+    "start": 127.5,
+    "end": 127.8,
+    "startFrame": 3825,
+    "endFrame": 3834
+  },
+  {
+    "word": "100",
+    "start": 127.8,
+    "end": 128.34,
+    "startFrame": 3834,
+    "endFrame": 3850
+  },
+  {
+    "word": "%",
+    "start": 128.34,
+    "end": 128.78,
+    "startFrame": 3850,
+    "endFrame": 3863
+  },
+  {
+    "word": "covered",
+    "start": 128.78,
+    "end": 129.2,
+    "startFrame": 3863,
+    "endFrame": 3876
+  },
+  {
+    "word": "by",
+    "start": 129.2,
+    "end": 129.44,
+    "startFrame": 3876,
+    "endFrame": 3883
+  },
+  {
+    "word": "the",
+    "start": 129.44,
+    "end": 129.56,
+    "startFrame": 3883,
+    "endFrame": 3887
+  },
+  {
+    "word": "government.",
+    "start": 129.56,
+    "end": 129.96,
+    "startFrame": 3887,
+    "endFrame": 3899
+  },
+  {
+    "word": "The",
+    "start": 129.96,
+    "end": 130.94,
+    "startFrame": 3899,
+    "endFrame": 3928
+  },
+  {
+    "word": "discipline",
+    "start": 130.94,
+    "end": 131.4,
+    "startFrame": 3928,
+    "endFrame": 3942
+  },
+  {
+    "word": "is",
+    "start": 131.4,
+    "end": 131.82,
+    "startFrame": 3942,
+    "endFrame": 3955
+  },
+  {
+    "word": "militaristic.",
+    "start": 131.82,
+    "end": 132.8,
+    "startFrame": 3955,
+    "endFrame": 3984
+  },
+  {
+    "word": "Athletes",
+    "start": 133.34,
+    "end": 133.94,
+    "startFrame": 4000,
+    "endFrame": 4018
+  },
+  {
+    "word": "train",
+    "start": 133.94,
+    "end": 134.16,
+    "startFrame": 4018,
+    "endFrame": 4025
+  },
+  {
+    "word": "six",
+    "start": 134.16,
+    "end": 134.5,
+    "startFrame": 4025,
+    "endFrame": 4035
+  },
+  {
+    "word": "to",
+    "start": 134.5,
+    "end": 134.74,
+    "startFrame": 4035,
+    "endFrame": 4042
+  },
+  {
+    "word": "eight",
+    "start": 134.74,
+    "end": 134.94,
+    "startFrame": 4042,
+    "endFrame": 4048
+  },
+  {
+    "word": "hours",
+    "start": 134.94,
+    "end": 135.24,
+    "startFrame": 4048,
+    "endFrame": 4057
+  },
+  {
+    "word": "a",
+    "start": 135.24,
+    "end": 135.42,
+    "startFrame": 4057,
+    "endFrame": 4063
+  },
+  {
+    "word": "day,",
+    "start": 135.42,
+    "end": 135.62,
+    "startFrame": 4063,
+    "endFrame": 4069
+  },
+  {
+    "word": "executing",
+    "start": 136.1,
+    "end": 136.48,
+    "startFrame": 4083,
+    "endFrame": 4094
+  },
+  {
+    "word": "thousands",
+    "start": 136.48,
+    "end": 137.12,
+    "startFrame": 4094,
+    "endFrame": 4114
+  },
+  {
+    "word": "of",
+    "start": 137.12,
+    "end": 137.36,
+    "startFrame": 4114,
+    "endFrame": 4121
+  },
+  {
+    "word": "repetitions",
+    "start": 137.36,
+    "end": 137.94,
+    "startFrame": 4121,
+    "endFrame": 4138
+  },
+  {
+    "word": "to",
+    "start": 137.94,
+    "end": 138.46,
+    "startFrame": 4138,
+    "endFrame": 4154
+  },
+  {
+    "word": "eradicate",
+    "start": 138.46,
+    "end": 139.04,
+    "startFrame": 4154,
+    "endFrame": 4171
+  },
+  {
+    "word": "human",
+    "start": 139.04,
+    "end": 139.44,
+    "startFrame": 4171,
+    "endFrame": 4183
+  },
+  {
+    "word": "error",
+    "start": 139.44,
+    "end": 139.8,
+    "startFrame": 4183,
+    "endFrame": 4194
+  },
+  {
+    "word": "on",
+    "start": 139.8,
+    "end": 140.1,
+    "startFrame": 4194,
+    "endFrame": 4203
+  },
+  {
+    "word": "competition",
+    "start": 140.1,
+    "end": 140.68,
+    "startFrame": 4203,
+    "endFrame": 4220
+  },
+  {
+    "word": "day.",
+    "start": 140.68,
+    "end": 141.02,
+    "startFrame": 4220,
+    "endFrame": 4231
+  },
+  {
+    "word": "The",
+    "start": 141.74,
+    "end": 141.98,
+    "startFrame": 4252,
+    "endFrame": 4259
+  },
+  {
+    "word": "second",
+    "start": 141.98,
+    "end": 142.28,
+    "startFrame": 4259,
+    "endFrame": 4268
+  },
+  {
+    "word": "pillar",
+    "start": 142.28,
+    "end": 142.6,
+    "startFrame": 4268,
+    "endFrame": 4278
+  },
+  {
+    "word": "is",
+    "start": 142.6,
+    "end": 142.86,
+    "startFrame": 4278,
+    "endFrame": 4286
+  },
+  {
+    "word": "the",
+    "start": 142.86,
+    "end": 143.0,
+    "startFrame": 4286,
+    "endFrame": 4290
+  },
+  {
+    "word": "mathematics",
+    "start": 143.0,
+    "end": 143.44,
+    "startFrame": 4290,
+    "endFrame": 4303
+  },
+  {
+    "word": "of",
+    "start": 143.44,
+    "end": 143.8,
+    "startFrame": 4303,
+    "endFrame": 4314
+  },
+  {
+    "word": "medals,",
+    "start": 143.8,
+    "end": 144.0,
+    "startFrame": 4314,
+    "endFrame": 4320
+  },
+  {
+    "word": "known",
+    "start": 144.54,
+    "end": 144.7,
+    "startFrame": 4336,
+    "endFrame": 4341
+  },
+  {
+    "word": "as",
+    "start": 144.7,
+    "end": 144.9,
+    "startFrame": 4341,
+    "endFrame": 4347
+  },
+  {
+    "word": "Project",
+    "start": 144.9,
+    "end": 145.3,
+    "startFrame": 4347,
+    "endFrame": 4359
+  },
+  {
+    "word": "119.",
+    "start": 145.3,
+    "end": 146.28,
+    "startFrame": 4359,
+    "endFrame": 4388
+  },
+  {
+    "word": "China",
+    "start": 146.96,
+    "end": 147.34,
+    "startFrame": 4409,
+    "endFrame": 4420
+  },
+  {
+    "word": "never",
+    "start": 147.34,
+    "end": 147.8,
+    "startFrame": 4420,
+    "endFrame": 4434
+  },
+  {
+    "word": "distributed",
+    "start": 147.8,
+    "end": 148.4,
+    "startFrame": 4434,
+    "endFrame": 4452
+  },
+  {
+    "word": "its",
+    "start": 148.4,
+    "end": 148.64,
+    "startFrame": 4452,
+    "endFrame": 4459
+  },
+  {
+    "word": "sports",
+    "start": 148.64,
+    "end": 148.86,
+    "startFrame": 4459,
+    "endFrame": 4466
+  },
+  {
+    "word": "budget",
+    "start": 148.86,
+    "end": 149.3,
+    "startFrame": 4466,
+    "endFrame": 4479
+  },
+  {
+    "word": "at",
+    "start": 149.3,
+    "end": 149.52,
+    "startFrame": 4479,
+    "endFrame": 4486
+  },
+  {
+    "word": "random.",
+    "start": 149.52,
+    "end": 149.86,
+    "startFrame": 4486,
+    "endFrame": 4496
+  },
+  {
+    "word": "Instead,",
+    "start": 150.5,
+    "end": 150.98,
+    "startFrame": 4515,
+    "endFrame": 4529
+  },
+  {
+    "word": "officials",
+    "start": 151.44,
+    "end": 151.82,
+    "startFrame": 4543,
+    "endFrame": 4555
+  },
+  {
+    "word": "made",
+    "start": 151.82,
+    "end": 152.12,
+    "startFrame": 4555,
+    "endFrame": 4564
+  },
+  {
+    "word": "cold,",
+    "start": 152.12,
+    "end": 152.66,
+    "startFrame": 4564,
+    "endFrame": 4580
+  },
+  {
+    "word": "mathematical",
+    "start": 152.9,
+    "end": 153.38,
+    "startFrame": 4587,
+    "endFrame": 4601
+  },
+  {
+    "word": "calculations",
+    "start": 153.38,
+    "end": 154.28,
+    "startFrame": 4601,
+    "endFrame": 4628
+  },
+  {
+    "word": "to",
+    "start": 154.28,
+    "end": 154.82,
+    "startFrame": 4628,
+    "endFrame": 4645
+  },
+  {
+    "word": "maximize",
+    "start": 154.82,
+    "end": 155.26,
+    "startFrame": 4645,
+    "endFrame": 4658
+  },
+  {
+    "word": "the",
+    "start": 155.26,
+    "end": 155.68,
+    "startFrame": 4658,
+    "endFrame": 4670
+  },
+  {
+    "word": "return",
+    "start": 155.68,
+    "end": 156.04,
+    "startFrame": 4670,
+    "endFrame": 4681
+  },
+  {
+    "word": "on",
+    "start": 156.04,
+    "end": 156.38,
+    "startFrame": 4681,
+    "endFrame": 4691
+  },
+  {
+    "word": "gold",
+    "start": 156.38,
+    "end": 156.64,
+    "startFrame": 4691,
+    "endFrame": 4699
+  },
+  {
+    "word": "medals",
+    "start": 156.64,
+    "end": 157.0,
+    "startFrame": 4699,
+    "endFrame": 4710
+  },
+  {
+    "word": "per",
+    "start": 157.0,
+    "end": 157.3,
+    "startFrame": 4710,
+    "endFrame": 4719
+  },
+  {
+    "word": "event.",
+    "start": 157.3,
+    "end": 157.62,
+    "startFrame": 4719,
+    "endFrame": 4729
+  },
+  {
+    "word": "First,",
+    "start": 157.62,
+    "end": 158.72,
+    "startFrame": 4729,
+    "endFrame": 4762
+  },
+  {
+    "word": "they",
+    "start": 159.02,
+    "end": 159.1,
+    "startFrame": 4771,
+    "endFrame": 4773
+  },
+  {
+    "word": "monopolized",
+    "start": 159.1,
+    "end": 159.8,
+    "startFrame": 4773,
+    "endFrame": 4794
+  },
+  {
+    "word": "niche",
+    "start": 159.8,
+    "end": 160.0,
+    "startFrame": 4794,
+    "endFrame": 4800
+  },
+  {
+    "word": "disciplines.",
+    "start": 160.0,
+    "end": 160.62,
+    "startFrame": 4800,
+    "endFrame": 4819
+  },
+  {
+    "word": "China",
+    "start": 161.16,
+    "end": 161.58,
+    "startFrame": 4835,
+    "endFrame": 4847
+  },
+  {
+    "word": "concentrated",
+    "start": 161.58,
+    "end": 162.24,
+    "startFrame": 4847,
+    "endFrame": 4867
+  },
+  {
+    "word": "massive",
+    "start": 162.24,
+    "end": 162.64,
+    "startFrame": 4867,
+    "endFrame": 4879
+  },
+  {
+    "word": "investments",
+    "start": 162.64,
+    "end": 163.22,
+    "startFrame": 4879,
+    "endFrame": 4897
+  },
+  {
+    "word": "into",
+    "start": 163.22,
+    "end": 163.5,
+    "startFrame": 4897,
+    "endFrame": 4905
+  },
+  {
+    "word": "six",
+    "start": 163.5,
+    "end": 163.78,
+    "startFrame": 4905,
+    "endFrame": 4913
+  },
+  {
+    "word": "core",
+    "start": 163.78,
+    "end": 164.08,
+    "startFrame": 4913,
+    "endFrame": 4922
+  },
+  {
+    "word": "sports",
+    "start": 164.08,
+    "end": 164.36,
+    "startFrame": 4922,
+    "endFrame": 4931
+  },
+  {
+    "word": "that",
+    "start": 164.36,
+    "end": 164.64,
+    "startFrame": 4931,
+    "endFrame": 4939
+  },
+  {
+    "word": "offered",
+    "start": 164.64,
+    "end": 164.88,
+    "startFrame": 4939,
+    "endFrame": 4946
+  },
+  {
+    "word": "dozens",
+    "start": 164.88,
+    "end": 165.2,
+    "startFrame": 4946,
+    "endFrame": 4956
+  },
+  {
+    "word": "of",
+    "start": 165.2,
+    "end": 165.44,
+    "startFrame": 4956,
+    "endFrame": 4963
+  },
+  {
+    "word": "medals",
+    "start": 165.44,
+    "end": 165.68,
+    "startFrame": 4963,
+    "endFrame": 4970
+  },
+  {
+    "word": "but",
+    "start": 165.68,
+    "end": 166.36,
+    "startFrame": 4970,
+    "endFrame": 4991
+  },
+  {
+    "word": "faced",
+    "start": 166.36,
+    "end": 166.64,
+    "startFrame": 4991,
+    "endFrame": 4999
+  },
+  {
+    "word": "relatively",
+    "start": 166.64,
+    "end": 167.18,
+    "startFrame": 4999,
+    "endFrame": 5015
+  },
+  {
+    "word": "low",
+    "start": 167.18,
+    "end": 167.58,
+    "startFrame": 5015,
+    "endFrame": 5027
+  },
+  {
+    "word": "competition",
+    "start": 167.58,
+    "end": 168.1,
+    "startFrame": 5027,
+    "endFrame": 5043
+  },
+  {
+    "word": "from",
+    "start": 168.1,
+    "end": 168.54,
+    "startFrame": 5043,
+    "endFrame": 5056
+  },
+  {
+    "word": "wealthy",
+    "start": 168.54,
+    "end": 168.88,
+    "startFrame": 5056,
+    "endFrame": 5066
+  },
+  {
+    "word": "western",
+    "start": 168.88,
+    "end": 169.26,
+    "startFrame": 5066,
+    "endFrame": 5078
+  },
+  {
+    "word": "nations,",
+    "start": 169.26,
+    "end": 169.86,
+    "startFrame": 5078,
+    "endFrame": 5096
+  },
+  {
+    "word": "diving,",
+    "start": 170.28,
+    "end": 170.7,
+    "startFrame": 5108,
+    "endFrame": 5121
+  },
+  {
+    "word": "table",
+    "start": 171.22,
+    "end": 171.48,
+    "startFrame": 5137,
+    "endFrame": 5144
+  },
+  {
+    "word": "tennis,",
+    "start": 171.48,
+    "end": 171.86,
+    "startFrame": 5144,
+    "endFrame": 5156
+  },
+  {
+    "word": "weightlifting,",
+    "start": 172.4,
+    "end": 172.82,
+    "startFrame": 5172,
+    "endFrame": 5185
+  },
+  {
+    "word": "gymnastics,",
+    "start": 173.26,
+    "end": 173.7,
+    "startFrame": 5198,
+    "endFrame": 5211
+  },
+  {
+    "word": "shooting",
+    "start": 174.36,
+    "end": 174.56,
+    "startFrame": 5231,
+    "endFrame": 5237
+  },
+  {
+    "word": "and",
+    "start": 174.56,
+    "end": 175.0,
+    "startFrame": 5237,
+    "endFrame": 5250
+  },
+  {
+    "word": "badminton.",
+    "start": 175.0,
+    "end": 175.52,
+    "startFrame": 5250,
+    "endFrame": 5266
+  },
+  {
+    "word": "In",
+    "start": 176.22,
+    "end": 176.46,
+    "startFrame": 5287,
+    "endFrame": 5294
+  },
+  {
+    "word": "diving,",
+    "start": 176.46,
+    "end": 176.82,
+    "startFrame": 5294,
+    "endFrame": 5305
+  },
+  {
+    "word": "their",
+    "start": 177.2,
+    "end": 177.28,
+    "startFrame": 5316,
+    "endFrame": 5318
+  },
+  {
+    "word": "squad",
+    "start": 177.28,
+    "end": 177.6,
+    "startFrame": 5318,
+    "endFrame": 5328
+  },
+  {
+    "word": "was",
+    "start": 177.6,
+    "end": 177.9,
+    "startFrame": 5328,
+    "endFrame": 5337
+  },
+  {
+    "word": "dubbed",
+    "start": 177.9,
+    "end": 178.18,
+    "startFrame": 5337,
+    "endFrame": 5345
+  },
+  {
+    "word": "the",
+    "start": 178.18,
+    "end": 178.38,
+    "startFrame": 5345,
+    "endFrame": 5351
+  },
+  {
+    "word": "Dream",
+    "start": 178.38,
+    "end": 178.6,
+    "startFrame": 5351,
+    "endFrame": 5358
+  },
+  {
+    "word": "Team,",
+    "start": 178.6,
+    "end": 179.04,
+    "startFrame": 5358,
+    "endFrame": 5371
+  },
+  {
+    "word": "routinely",
+    "start": 179.48,
+    "end": 179.72,
+    "startFrame": 5384,
+    "endFrame": 5392
+  },
+  {
+    "word": "sweeping",
+    "start": 179.72,
+    "end": 180.18,
+    "startFrame": 5392,
+    "endFrame": 5405
+  },
+  {
+    "word": "nearly",
+    "start": 180.18,
+    "end": 180.64,
+    "startFrame": 5405,
+    "endFrame": 5419
+  },
+  {
+    "word": "every",
+    "start": 180.64,
+    "end": 181.04,
+    "startFrame": 5419,
+    "endFrame": 5431
+  },
+  {
+    "word": "available",
+    "start": 181.04,
+    "end": 181.52,
+    "startFrame": 5431,
+    "endFrame": 5446
+  },
+  {
+    "word": "gold",
+    "start": 181.52,
+    "end": 181.84,
+    "startFrame": 5446,
+    "endFrame": 5455
+  },
+  {
+    "word": "at",
+    "start": 181.84,
+    "end": 182.02,
+    "startFrame": 5455,
+    "endFrame": 5461
+  },
+  {
+    "word": "the",
+    "start": 182.02,
+    "end": 182.1,
+    "startFrame": 5461,
+    "endFrame": 5463
+  },
+  {
+    "word": "Olympics.",
+    "start": 182.1,
+    "end": 182.38,
+    "startFrame": 5463,
+    "endFrame": 5471
+  },
+  {
+    "word": "Second,",
+    "start": 182.38,
+    "end": 183.74,
+    "startFrame": 5471,
+    "endFrame": 5512
+  },
+  {
+    "word": "they",
+    "start": 184.06,
+    "end": 184.18,
+    "startFrame": 5522,
+    "endFrame": 5525
+  },
+  {
+    "word": "avoided",
+    "start": 184.18,
+    "end": 184.52,
+    "startFrame": 5525,
+    "endFrame": 5536
+  },
+  {
+    "word": "the",
+    "start": 184.52,
+    "end": 184.74,
+    "startFrame": 5536,
+    "endFrame": 5542
+  },
+  {
+    "word": "trap",
+    "start": 184.74,
+    "end": 185.0,
+    "startFrame": 5542,
+    "endFrame": 5550
+  },
+  {
+    "word": "of",
+    "start": 185.0,
+    "end": 185.26,
+    "startFrame": 5550,
+    "endFrame": 5558
+  },
+  {
+    "word": "popular",
+    "start": 185.26,
+    "end": 185.66,
+    "startFrame": 5558,
+    "endFrame": 5570
+  },
+  {
+    "word": "team",
+    "start": 185.66,
+    "end": 186.02,
+    "startFrame": 5570,
+    "endFrame": 5581
+  },
+  {
+    "word": "sports.",
+    "start": 186.02,
+    "end": 186.38,
+    "startFrame": 5581,
+    "endFrame": 5591
+  },
+  {
+    "word": "Developing",
+    "start": 187.06,
+    "end": 187.58,
+    "startFrame": 5612,
+    "endFrame": 5627
+  },
+  {
+    "word": "a",
+    "start": 187.58,
+    "end": 187.7,
+    "startFrame": 5627,
+    "endFrame": 5631
+  },
+  {
+    "word": "competitive",
+    "start": 187.7,
+    "end": 188.14,
+    "startFrame": 5631,
+    "endFrame": 5644
+  },
+  {
+    "word": "soccer",
+    "start": 188.14,
+    "end": 188.54,
+    "startFrame": 5644,
+    "endFrame": 5656
+  },
+  {
+    "word": "or",
+    "start": 188.54,
+    "end": 189.04,
+    "startFrame": 5656,
+    "endFrame": 5671
+  },
+  {
+    "word": "basketball",
+    "start": 189.04,
+    "end": 189.42,
+    "startFrame": 5671,
+    "endFrame": 5683
+  },
+  {
+    "word": "team",
+    "start": 189.42,
+    "end": 190.0,
+    "startFrame": 5683,
+    "endFrame": 5700
+  },
+  {
+    "word": "takes",
+    "start": 190.0,
+    "end": 190.38,
+    "startFrame": 5700,
+    "endFrame": 5711
+  },
+  {
+    "word": "decades,",
+    "start": 190.38,
+    "end": 190.82,
+    "startFrame": 5711,
+    "endFrame": 5725
+  },
+  {
+    "word": "costs",
+    "start": 191.42,
+    "end": 191.62,
+    "startFrame": 5743,
+    "endFrame": 5749
+  },
+  {
+    "word": "trillions",
+    "start": 191.62,
+    "end": 192.12,
+    "startFrame": 5749,
+    "endFrame": 5764
+  },
+  {
+    "word": "and",
+    "start": 192.12,
+    "end": 192.76,
+    "startFrame": 5764,
+    "endFrame": 5783
+  },
+  {
+    "word": "rewards",
+    "start": 192.76,
+    "end": 193.08,
+    "startFrame": 5783,
+    "endFrame": 5792
+  },
+  {
+    "word": "only",
+    "start": 193.08,
+    "end": 193.58,
+    "startFrame": 5792,
+    "endFrame": 5807
+  },
+  {
+    "word": "a",
+    "start": 193.58,
+    "end": 193.76,
+    "startFrame": 5807,
+    "endFrame": 5813
+  },
+  {
+    "word": "single",
+    "start": 193.76,
+    "end": 194.08,
+    "startFrame": 5813,
+    "endFrame": 5822
+  },
+  {
+    "word": "gold",
+    "start": 194.08,
+    "end": 194.48,
+    "startFrame": 5822,
+    "endFrame": 5834
+  },
+  {
+    "word": "medal.",
+    "start": 194.48,
+    "end": 194.72,
+    "startFrame": 5834,
+    "endFrame": 5842
+  },
+  {
+    "word": "China",
+    "start": 195.46,
+    "end": 195.84,
+    "startFrame": 5864,
+    "endFrame": 5875
+  },
+  {
+    "word": "chose",
+    "start": 195.84,
+    "end": 196.26,
+    "startFrame": 5875,
+    "endFrame": 5888
+  },
+  {
+    "word": "to",
+    "start": 196.26,
+    "end": 196.46,
+    "startFrame": 5888,
+    "endFrame": 5894
+  },
+  {
+    "word": "redirect",
+    "start": 196.46,
+    "end": 196.8,
+    "startFrame": 5894,
+    "endFrame": 5904
+  },
+  {
+    "word": "those",
+    "start": 196.8,
+    "end": 197.16,
+    "startFrame": 5904,
+    "endFrame": 5915
+  },
+  {
+    "word": "resources",
+    "start": 197.16,
+    "end": 197.74,
+    "startFrame": 5915,
+    "endFrame": 5932
+  },
+  {
+    "word": "toward",
+    "start": 197.74,
+    "end": 198.14,
+    "startFrame": 5932,
+    "endFrame": 5944
+  },
+  {
+    "word": "individual",
+    "start": 198.14,
+    "end": 198.6,
+    "startFrame": 5944,
+    "endFrame": 5958
+  },
+  {
+    "word": "events",
+    "start": 198.6,
+    "end": 199.2,
+    "startFrame": 5958,
+    "endFrame": 5976
+  },
+  {
+    "word": "that",
+    "start": 199.2,
+    "end": 199.5,
+    "startFrame": 5976,
+    "endFrame": 5985
+  },
+  {
+    "word": "produce",
+    "start": 199.5,
+    "end": 199.78,
+    "startFrame": 5985,
+    "endFrame": 5993
+  },
+  {
+    "word": "stacks",
+    "start": 199.78,
+    "end": 200.12,
+    "startFrame": 5993,
+    "endFrame": 6004
+  },
+  {
+    "word": "of",
+    "start": 200.12,
+    "end": 200.38,
+    "startFrame": 6004,
+    "endFrame": 6011
+  },
+  {
+    "word": "medals.",
+    "start": 200.38,
+    "end": 200.56,
+    "startFrame": 6011,
+    "endFrame": 6017
+  },
+  {
+    "word": "This",
+    "start": 201.14,
+    "end": 201.72,
+    "startFrame": 6034,
+    "endFrame": 6052
+  },
+  {
+    "word": "led",
+    "start": 201.72,
+    "end": 201.86,
+    "startFrame": 6052,
+    "endFrame": 6056
+  },
+  {
+    "word": "to",
+    "start": 201.86,
+    "end": 202.02,
+    "startFrame": 6056,
+    "endFrame": 6061
+  },
+  {
+    "word": "the",
+    "start": 202.02,
+    "end": 202.1,
+    "startFrame": 6061,
+    "endFrame": 6063
+  },
+  {
+    "word": "birth",
+    "start": 202.1,
+    "end": 202.28,
+    "startFrame": 6063,
+    "endFrame": 6068
+  },
+  {
+    "word": "of",
+    "start": 202.28,
+    "end": 202.46,
+    "startFrame": 6068,
+    "endFrame": 6074
+  },
+  {
+    "word": "Project",
+    "start": 202.46,
+    "end": 202.84,
+    "startFrame": 6074,
+    "endFrame": 6085
+  },
+  {
+    "word": "119.",
+    "start": 202.84,
+    "end": 203.72,
+    "startFrame": 6085,
+    "endFrame": 6112
+  },
+  {
+    "word": "Leading",
+    "start": 203.72,
+    "end": 204.62,
+    "startFrame": 6112,
+    "endFrame": 6139
+  },
+  {
+    "word": "up",
+    "start": 204.62,
+    "end": 204.8,
+    "startFrame": 6139,
+    "endFrame": 6144
+  },
+  {
+    "word": "to",
+    "start": 204.8,
+    "end": 204.94,
+    "startFrame": 6144,
+    "endFrame": 6148
+  },
+  {
+    "word": "Beijing",
+    "start": 204.94,
+    "end": 205.2,
+    "startFrame": 6148,
+    "endFrame": 6156
+  },
+  {
+    "word": "2008,",
+    "start": 205.2,
+    "end": 206.22,
+    "startFrame": 6156,
+    "endFrame": 6187
+  },
+  {
+    "word": "the",
+    "start": 206.8,
+    "end": 206.84,
+    "startFrame": 6204,
+    "endFrame": 6205
+  },
+  {
+    "word": "government",
+    "start": 206.84,
+    "end": 207.14,
+    "startFrame": 6205,
+    "endFrame": 6214
+  },
+  {
+    "word": "launched",
+    "start": 207.14,
+    "end": 207.52,
+    "startFrame": 6214,
+    "endFrame": 6226
+  },
+  {
+    "word": "this",
+    "start": 207.52,
+    "end": 207.74,
+    "startFrame": 6226,
+    "endFrame": 6232
+  },
+  {
+    "word": "initiative",
+    "start": 207.74,
+    "end": 208.24,
+    "startFrame": 6232,
+    "endFrame": 6247
+  },
+  {
+    "word": "to",
+    "start": 208.24,
+    "end": 208.64,
+    "startFrame": 6247,
+    "endFrame": 6259
+  },
+  {
+    "word": "conquer",
+    "start": 208.64,
+    "end": 208.98,
+    "startFrame": 6259,
+    "endFrame": 6269
+  },
+  {
+    "word": "the",
+    "start": 208.98,
+    "end": 209.16,
+    "startFrame": 6269,
+    "endFrame": 6275
+  },
+  {
+    "word": "119",
+    "start": 209.16,
+    "end": 210.1,
+    "startFrame": 6275,
+    "endFrame": 6303
+  },
+  {
+    "word": "medals",
+    "start": 210.1,
+    "end": 210.56,
+    "startFrame": 6303,
+    "endFrame": 6317
+  },
+  {
+    "word": "traditionally",
+    "start": 210.56,
+    "end": 211.28,
+    "startFrame": 6317,
+    "endFrame": 6338
+  },
+  {
+    "word": "dominated",
+    "start": 211.28,
+    "end": 211.98,
+    "startFrame": 6338,
+    "endFrame": 6359
+  },
+  {
+    "word": "by",
+    "start": 211.98,
+    "end": 212.16,
+    "startFrame": 6359,
+    "endFrame": 6365
+  },
+  {
+    "word": "the",
+    "start": 212.16,
+    "end": 212.28,
+    "startFrame": 6365,
+    "endFrame": 6368
+  },
+  {
+    "word": "West",
+    "start": 212.28,
+    "end": 212.56,
+    "startFrame": 6368,
+    "endFrame": 6377
+  },
+  {
+    "word": "in",
+    "start": 212.56,
+    "end": 212.74,
+    "startFrame": 6377,
+    "endFrame": 6382
+  },
+  {
+    "word": "track",
+    "start": 212.74,
+    "end": 213.02,
+    "startFrame": 6382,
+    "endFrame": 6391
+  },
+  {
+    "word": "and",
+    "start": 213.02,
+    "end": 213.24,
+    "startFrame": 6391,
+    "endFrame": 6397
+  },
+  {
+    "word": "field,",
+    "start": 213.24,
+    "end": 213.56,
+    "startFrame": 6397,
+    "endFrame": 6407
+  },
+  {
+    "word": "swimming",
+    "start": 214.12,
+    "end": 214.32,
+    "startFrame": 6424,
+    "endFrame": 6430
+  },
+  {
+    "word": "and",
+    "start": 214.32,
+    "end": 214.78,
+    "startFrame": 6430,
+    "endFrame": 6443
+  },
+  {
+    "word": "rowing.",
+    "start": 214.78,
+    "end": 215.2,
+    "startFrame": 6443,
+    "endFrame": 6456
+  },
+  {
+    "word": "This",
+    "start": 215.68,
+    "end": 216.08,
+    "startFrame": 6470,
+    "endFrame": 6482
+  },
+  {
+    "word": "strategy",
+    "start": 216.08,
+    "end": 216.62,
+    "startFrame": 6482,
+    "endFrame": 6499
+  },
+  {
+    "word": "forged",
+    "start": 216.62,
+    "end": 217.06,
+    "startFrame": 6499,
+    "endFrame": 6512
+  },
+  {
+    "word": "global",
+    "start": 217.06,
+    "end": 217.48,
+    "startFrame": 6512,
+    "endFrame": 6524
+  },
+  {
+    "word": "icons",
+    "start": 217.48,
+    "end": 217.96,
+    "startFrame": 6524,
+    "endFrame": 6539
+  },
+  {
+    "word": "like",
+    "start": 217.96,
+    "end": 218.5,
+    "startFrame": 6539,
+    "endFrame": 6555
+  },
+  {
+    "word": "Liu",
+    "start": 218.5,
+    "end": 218.74,
+    "startFrame": 6555,
+    "endFrame": 6562
+  },
+  {
+    "word": "Ziyang",
+    "start": 218.74,
+    "end": 219.18,
+    "startFrame": 6562,
+    "endFrame": 6575
+  },
+  {
+    "word": "in",
+    "start": 219.18,
+    "end": 219.6,
+    "startFrame": 6575,
+    "endFrame": 6588
+  },
+  {
+    "word": "the",
+    "start": 219.6,
+    "end": 219.72,
+    "startFrame": 6588,
+    "endFrame": 6592
+  },
+  {
+    "word": "110",
+    "start": 219.72,
+    "end": 220.34,
+    "startFrame": 6592,
+    "endFrame": 6610
+  },
+  {
+    "word": "meter",
+    "start": 220.34,
+    "end": 220.84,
+    "startFrame": 6610,
+    "endFrame": 6625
+  },
+  {
+    "word": "hurdles",
+    "start": 220.84,
+    "end": 221.26,
+    "startFrame": 6625,
+    "endFrame": 6638
+  },
+  {
+    "word": "alongside",
+    "start": 221.26,
+    "end": 222.08,
+    "startFrame": 6638,
+    "endFrame": 6662
+  },
+  {
+    "word": "new",
+    "start": 222.08,
+    "end": 222.62,
+    "startFrame": 6662,
+    "endFrame": 6679
+  },
+  {
+    "word": "generation",
+    "start": 222.62,
+    "end": 223.1,
+    "startFrame": 6679,
+    "endFrame": 6693
+  },
+  {
+    "word": "swim",
+    "start": 223.1,
+    "end": 223.52,
+    "startFrame": 6693,
+    "endFrame": 6706
+  },
+  {
+    "word": "champions",
+    "start": 223.52,
+    "end": 224.08,
+    "startFrame": 6706,
+    "endFrame": 6722
+  },
+  {
+    "word": "like",
+    "start": 224.08,
+    "end": 224.48,
+    "startFrame": 6722,
+    "endFrame": 6734
+  },
+  {
+    "word": "Sun",
+    "start": 224.48,
+    "end": 224.76,
+    "startFrame": 6734,
+    "endFrame": 6743
+  },
+  {
+    "word": "Yang",
+    "start": 224.76,
+    "end": 224.94,
+    "startFrame": 6743,
+    "endFrame": 6748
+  },
+  {
+    "word": "and",
+    "start": 224.94,
+    "end": 225.5,
+    "startFrame": 6748,
+    "endFrame": 6765
+  },
+  {
+    "word": "Panjana.",
+    "start": 225.5,
+    "end": 226.06,
+    "startFrame": 6765,
+    "endFrame": 6782
+  },
+  {
+    "word": "The",
+    "start": 226.06,
+    "end": 227.02,
+    "startFrame": 6782,
+    "endFrame": 6811
+  },
+  {
+    "word": "third",
+    "start": 227.02,
+    "end": 227.28,
+    "startFrame": 6811,
+    "endFrame": 6818
+  },
+  {
+    "word": "pillar",
+    "start": 227.28,
+    "end": 227.6,
+    "startFrame": 6818,
+    "endFrame": 6828
+  },
+  {
+    "word": "is",
+    "start": 227.6,
+    "end": 227.84,
+    "startFrame": 6828,
+    "endFrame": 6835
+  },
+  {
+    "word": "sports",
+    "start": 227.84,
+    "end": 228.18,
+    "startFrame": 6835,
+    "endFrame": 6845
+  },
+  {
+    "word": "science",
+    "start": 228.18,
+    "end": 228.58,
+    "startFrame": 6845,
+    "endFrame": 6857
+  },
+  {
+    "word": "and",
+    "start": 228.58,
+    "end": 228.96,
+    "startFrame": 6857,
+    "endFrame": 6869
+  },
+  {
+    "word": "biomechanics",
+    "start": 228.96,
+    "end": 229.82,
+    "startFrame": 6869,
+    "endFrame": 6895
+  },
+  {
+    "word": "engineering.",
+    "start": 229.82,
+    "end": 230.32,
+    "startFrame": 6895,
+    "endFrame": 6910
+  },
+  {
+    "word": "China",
+    "start": 230.9,
+    "end": 231.3,
+    "startFrame": 6927,
+    "endFrame": 6939
+  },
+  {
+    "word": "does",
+    "start": 231.3,
+    "end": 231.52,
+    "startFrame": 6939,
+    "endFrame": 6946
+  },
+  {
+    "word": "not",
+    "start": 231.52,
+    "end": 231.7,
+    "startFrame": 6946,
+    "endFrame": 6951
+  },
+  {
+    "word": "rely",
+    "start": 231.7,
+    "end": 231.98,
+    "startFrame": 6951,
+    "endFrame": 6959
+  },
+  {
+    "word": "solely",
+    "start": 231.98,
+    "end": 232.52,
+    "startFrame": 6959,
+    "endFrame": 6976
+  },
+  {
+    "word": "on",
+    "start": 232.52,
+    "end": 232.84,
+    "startFrame": 6976,
+    "endFrame": 6985
+  },
+  {
+    "word": "raw",
+    "start": 232.84,
+    "end": 233.02,
+    "startFrame": 6985,
+    "endFrame": 6991
+  },
+  {
+    "word": "physical",
+    "start": 233.02,
+    "end": 233.42,
+    "startFrame": 6991,
+    "endFrame": 7003
+  },
+  {
+    "word": "grind.",
+    "start": 233.42,
+    "end": 233.8,
+    "startFrame": 7003,
+    "endFrame": 7014
+  },
+  {
+    "word": "It",
+    "start": 234.34,
+    "end": 234.46,
+    "startFrame": 7030,
+    "endFrame": 7034
+  },
+  {
+    "word": "relies",
+    "start": 234.46,
+    "end": 234.72,
+    "startFrame": 7034,
+    "endFrame": 7042
+  },
+  {
+    "word": "on",
+    "start": 234.72,
+    "end": 235.04,
+    "startFrame": 7042,
+    "endFrame": 7051
+  },
+  {
+    "word": "cutting",
+    "start": 235.04,
+    "end": 235.34,
+    "startFrame": 7051,
+    "endFrame": 7060
+  },
+  {
+    "word": "edge",
+    "start": 235.34,
+    "end": 235.6,
+    "startFrame": 7060,
+    "endFrame": 7068
+  },
+  {
+    "word": "engineering.",
+    "start": 235.6,
+    "end": 236.08,
+    "startFrame": 7068,
+    "endFrame": 7082
+  },
+  {
+    "word": "High",
+    "start": 236.86,
+    "end": 237.0,
+    "startFrame": 7106,
+    "endFrame": 7110
+  },
+  {
+    "word": "speed",
+    "start": 237.0,
+    "end": 237.22,
+    "startFrame": 7110,
+    "endFrame": 7117
+  },
+  {
+    "word": "resolution,",
+    "start": 237.22,
+    "end": 237.8,
+    "startFrame": 7117,
+    "endFrame": 7134
+  },
+  {
+    "word": "cameras",
+    "start": 238.18,
+    "end": 238.48,
+    "startFrame": 7145,
+    "endFrame": 7154
+  },
+  {
+    "word": "and",
+    "start": 238.48,
+    "end": 238.72,
+    "startFrame": 7154,
+    "endFrame": 7162
+  },
+  {
+    "word": "motion",
+    "start": 238.72,
+    "end": 239.0,
+    "startFrame": 7162,
+    "endFrame": 7170
+  },
+  {
+    "word": "capture",
+    "start": 239.0,
+    "end": 239.4,
+    "startFrame": 7170,
+    "endFrame": 7182
+  },
+  {
+    "word": "sensors",
+    "start": 239.4,
+    "end": 239.96,
+    "startFrame": 7182,
+    "endFrame": 7199
+  },
+  {
+    "word": "analyze",
+    "start": 239.96,
+    "end": 240.64,
+    "startFrame": 7199,
+    "endFrame": 7219
+  },
+  {
+    "word": "diving",
+    "start": 240.64,
+    "end": 241.14,
+    "startFrame": 7219,
+    "endFrame": 7234
+  },
+  {
+    "word": "takeoff",
+    "start": 241.14,
+    "end": 241.72,
+    "startFrame": 7234,
+    "endFrame": 7252
+  },
+  {
+    "word": "angles",
+    "start": 241.72,
+    "end": 242.06,
+    "startFrame": 7252,
+    "endFrame": 7262
+  },
+  {
+    "word": "down",
+    "start": 242.06,
+    "end": 242.44,
+    "startFrame": 7262,
+    "endFrame": 7273
+  },
+  {
+    "word": "to",
+    "start": 242.44,
+    "end": 242.62,
+    "startFrame": 7273,
+    "endFrame": 7279
+  },
+  {
+    "word": "the",
+    "start": 242.62,
+    "end": 242.7,
+    "startFrame": 7279,
+    "endFrame": 7281
+  },
+  {
+    "word": "millimeter.",
+    "start": 242.7,
+    "end": 243.06,
+    "startFrame": 7281,
+    "endFrame": 7292
+  },
+  {
+    "word": "Wind",
+    "start": 243.88,
+    "end": 244.12,
+    "startFrame": 7316,
+    "endFrame": 7324
+  },
+  {
+    "word": "tunnels",
+    "start": 244.12,
+    "end": 244.48,
+    "startFrame": 7324,
+    "endFrame": 7334
+  },
+  {
+    "word": "originally",
+    "start": 244.48,
+    "end": 245.02,
+    "startFrame": 7334,
+    "endFrame": 7351
+  },
+  {
+    "word": "built",
+    "start": 245.02,
+    "end": 245.44,
+    "startFrame": 7351,
+    "endFrame": 7363
+  },
+  {
+    "word": "for",
+    "start": 245.44,
+    "end": 245.66,
+    "startFrame": 7363,
+    "endFrame": 7370
+  },
+  {
+    "word": "aerospace",
+    "start": 245.66,
+    "end": 246.04,
+    "startFrame": 7370,
+    "endFrame": 7381
+  },
+  {
+    "word": "rocket",
+    "start": 246.04,
+    "end": 246.62,
+    "startFrame": 7381,
+    "endFrame": 7399
+  },
+  {
+    "word": "engineering",
+    "start": 246.62,
+    "end": 247.12,
+    "startFrame": 7399,
+    "endFrame": 7414
+  },
+  {
+    "word": "were",
+    "start": 247.12,
+    "end": 247.66,
+    "startFrame": 7414,
+    "endFrame": 7430
+  },
+  {
+    "word": "repurposed",
+    "start": 247.66,
+    "end": 248.18,
+    "startFrame": 7430,
+    "endFrame": 7445
+  },
+  {
+    "word": "to",
+    "start": 248.18,
+    "end": 248.3,
+    "startFrame": 7445,
+    "endFrame": 7449
+  },
+  {
+    "word": "test",
+    "start": 248.3,
+    "end": 248.62,
+    "startFrame": 7449,
+    "endFrame": 7459
+  },
+  {
+    "word": "aerodynamic",
+    "start": 248.62,
+    "end": 249.26,
+    "startFrame": 7459,
+    "endFrame": 7478
+  },
+  {
+    "word": "drag",
+    "start": 249.26,
+    "end": 249.72,
+    "startFrame": 7478,
+    "endFrame": 7492
+  },
+  {
+    "word": "and",
+    "start": 249.72,
+    "end": 250.3,
+    "startFrame": 7492,
+    "endFrame": 7509
+  },
+  {
+    "word": "body",
+    "start": 250.3,
+    "end": 250.54,
+    "startFrame": 7509,
+    "endFrame": 7516
+  },
+  {
+    "word": "positioning",
+    "start": 250.54,
+    "end": 251.04,
+    "startFrame": 7516,
+    "endFrame": 7531
+  },
+  {
+    "word": "for",
+    "start": 251.04,
+    "end": 251.36,
+    "startFrame": 7531,
+    "endFrame": 7541
+  },
+  {
+    "word": "swimmers,",
+    "start": 251.36,
+    "end": 251.78,
+    "startFrame": 7541,
+    "endFrame": 7553
+  },
+  {
+    "word": "rowers",
+    "start": 252.24,
+    "end": 252.58,
+    "startFrame": 7567,
+    "endFrame": 7577
+  },
+  {
+    "word": "and",
+    "start": 252.58,
+    "end": 252.9,
+    "startFrame": 7577,
+    "endFrame": 7587
+  },
+  {
+    "word": "cyclists.",
+    "start": 252.9,
+    "end": 253.48,
+    "startFrame": 7587,
+    "endFrame": 7604
+  },
+  {
+    "word": "However,",
+    "start": 253.48,
+    "end": 254.64,
+    "startFrame": 7604,
+    "endFrame": 7639
+  },
+  {
+    "word": "this",
+    "start": 255.08,
+    "end": 255.18,
+    "startFrame": 7652,
+    "endFrame": 7655
+  },
+  {
+    "word": "system",
+    "start": 255.18,
+    "end": 255.52,
+    "startFrame": 7655,
+    "endFrame": 7666
+  },
+  {
+    "word": "has",
+    "start": 255.52,
+    "end": 255.76,
+    "startFrame": 7666,
+    "endFrame": 7673
+  },
+  {
+    "word": "a",
+    "start": 255.76,
+    "end": 255.88,
+    "startFrame": 7673,
+    "endFrame": 7676
+  },
+  {
+    "word": "dark",
+    "start": 255.88,
+    "end": 256.06,
+    "startFrame": 7676,
+    "endFrame": 7682
+  },
+  {
+    "word": "side.",
+    "start": 256.06,
+    "end": 256.52,
+    "startFrame": 7682,
+    "endFrame": 7696
+  },
+  {
+    "word": "The",
+    "start": 257.06,
+    "end": 257.14,
+    "startFrame": 7712,
+    "endFrame": 7714
+  },
+  {
+    "word": "juguotijai",
+    "start": 257.14,
+    "end": 257.96,
+    "startFrame": 7714,
+    "endFrame": 7739
+  },
+  {
+    "word": "model",
+    "start": 257.96,
+    "end": 258.22,
+    "startFrame": 7739,
+    "endFrame": 7747
+  },
+  {
+    "word": "has",
+    "start": 258.22,
+    "end": 258.46,
+    "startFrame": 7747,
+    "endFrame": 7754
+  },
+  {
+    "word": "faced",
+    "start": 258.46,
+    "end": 258.84,
+    "startFrame": 7754,
+    "endFrame": 7765
+  },
+  {
+    "word": "severe",
+    "start": 258.84,
+    "end": 259.3,
+    "startFrame": 7765,
+    "endFrame": 7779
+  },
+  {
+    "word": "criticism.",
+    "start": 259.3,
+    "end": 259.9,
+    "startFrame": 7779,
+    "endFrame": 7797
+  },
+  {
+    "word": "First,",
+    "start": 260.86,
+    "end": 261.16,
+    "startFrame": 7826,
+    "endFrame": 7835
+  },
+  {
+    "word": "there",
+    "start": 261.44,
+    "end": 261.54,
+    "startFrame": 7843,
+    "endFrame": 7846
+  },
+  {
+    "word": "is",
+    "start": 261.54,
+    "end": 261.7,
+    "startFrame": 7846,
+    "endFrame": 7851
+  },
+  {
+    "word": "extreme",
+    "start": 261.7,
+    "end": 262.18,
+    "startFrame": 7851,
+    "endFrame": 7865
+  },
+  {
+    "word": "mental",
+    "start": 262.18,
+    "end": 262.68,
+    "startFrame": 7865,
+    "endFrame": 7880
+  },
+  {
+    "word": "pressure.",
+    "start": 262.68,
+    "end": 263.12,
+    "startFrame": 7880,
+    "endFrame": 7894
+  },
+  {
+    "word": "Thousands",
+    "start": 263.78,
+    "end": 264.06,
+    "startFrame": 7913,
+    "endFrame": 7922
+  },
+  {
+    "word": "of",
+    "start": 264.06,
+    "end": 264.28,
+    "startFrame": 7922,
+    "endFrame": 7928
+  },
+  {
+    "word": "children",
+    "start": 264.28,
+    "end": 264.62,
+    "startFrame": 7928,
+    "endFrame": 7939
+  },
+  {
+    "word": "are",
+    "start": 264.62,
+    "end": 264.84,
+    "startFrame": 7939,
+    "endFrame": 7945
+  },
+  {
+    "word": "separated",
+    "start": 264.84,
+    "end": 265.32,
+    "startFrame": 7945,
+    "endFrame": 7960
+  },
+  {
+    "word": "from",
+    "start": 265.32,
+    "end": 265.52,
+    "startFrame": 7960,
+    "endFrame": 7966
+  },
+  {
+    "word": "their",
+    "start": 265.52,
+    "end": 265.66,
+    "startFrame": 7966,
+    "endFrame": 7970
+  },
+  {
+    "word": "families",
+    "start": 265.66,
+    "end": 266.14,
+    "startFrame": 7970,
+    "endFrame": 7984
+  },
+  {
+    "word": "at",
+    "start": 266.14,
+    "end": 266.62,
+    "startFrame": 7984,
+    "endFrame": 7999
+  },
+  {
+    "word": "a",
+    "start": 266.62,
+    "end": 266.7,
+    "startFrame": 7999,
+    "endFrame": 8001
+  },
+  {
+    "word": "very",
+    "start": 266.7,
+    "end": 266.94,
+    "startFrame": 8001,
+    "endFrame": 8008
+  },
+  {
+    "word": "young",
+    "start": 266.94,
+    "end": 267.18,
+    "startFrame": 8008,
+    "endFrame": 8015
+  },
+  {
+    "word": "age.",
+    "start": 267.18,
+    "end": 267.66,
+    "startFrame": 8015,
+    "endFrame": 8030
+  },
+  {
+    "word": "Second",
+    "start": 268.5,
+    "end": 268.82,
+    "startFrame": 8055,
+    "endFrame": 8065
+  },
+  {
+    "word": "is",
+    "start": 268.82,
+    "end": 269.1,
+    "startFrame": 8065,
+    "endFrame": 8073
+  },
+  {
+    "word": "the",
+    "start": 269.1,
+    "end": 269.24,
+    "startFrame": 8073,
+    "endFrame": 8077
+  },
+  {
+    "word": "fate",
+    "start": 269.24,
+    "end": 269.44,
+    "startFrame": 8077,
+    "endFrame": 8083
+  },
+  {
+    "word": "of",
+    "start": 269.44,
+    "end": 269.68,
+    "startFrame": 8083,
+    "endFrame": 8090
+  },
+  {
+    "word": "athletes",
+    "start": 269.68,
+    "end": 270.02,
+    "startFrame": 8090,
+    "endFrame": 8101
+  },
+  {
+    "word": "who",
+    "start": 270.02,
+    "end": 270.36,
+    "startFrame": 8101,
+    "endFrame": 8111
+  },
+  {
+    "word": "do",
+    "start": 270.36,
+    "end": 270.48,
+    "startFrame": 8111,
+    "endFrame": 8114
+  },
+  {
+    "word": "not",
+    "start": 270.48,
+    "end": 270.66,
+    "startFrame": 8114,
+    "endFrame": 8120
+  },
+  {
+    "word": "make",
+    "start": 270.66,
+    "end": 270.92,
+    "startFrame": 8120,
+    "endFrame": 8128
+  },
+  {
+    "word": "it.",
+    "start": 270.92,
+    "end": 271.14,
+    "startFrame": 8128,
+    "endFrame": 8134
+  },
+  {
+    "word": "The",
+    "start": 271.64,
+    "end": 271.78,
+    "startFrame": 8149,
+    "endFrame": 8153
+  },
+  {
+    "word": "system",
+    "start": 271.78,
+    "end": 272.14,
+    "startFrame": 8153,
+    "endFrame": 8164
+  },
+  {
+    "word": "is",
+    "start": 272.14,
+    "end": 272.42,
+    "startFrame": 8164,
+    "endFrame": 8173
+  },
+  {
+    "word": "brutally",
+    "start": 272.42,
+    "end": 272.84,
+    "startFrame": 8173,
+    "endFrame": 8185
+  },
+  {
+    "word": "pyramidal.",
+    "start": 272.84,
+    "end": 273.56,
+    "startFrame": 8185,
+    "endFrame": 8207
+  },
+  {
+    "word": "Only",
+    "start": 274.14,
+    "end": 274.42,
+    "startFrame": 8224,
+    "endFrame": 8233
+  },
+  {
+    "word": "a",
+    "start": 274.42,
+    "end": 274.56,
+    "startFrame": 8233,
+    "endFrame": 8237
+  },
+  {
+    "word": "tiny",
+    "start": 274.56,
+    "end": 274.94,
+    "startFrame": 8237,
+    "endFrame": 8248
+  },
+  {
+    "word": "fraction",
+    "start": 274.94,
+    "end": 275.4,
+    "startFrame": 8248,
+    "endFrame": 8262
+  },
+  {
+    "word": "ever",
+    "start": 275.4,
+    "end": 275.88,
+    "startFrame": 8262,
+    "endFrame": 8276
+  },
+  {
+    "word": "reach",
+    "start": 275.88,
+    "end": 276.18,
+    "startFrame": 8276,
+    "endFrame": 8285
+  },
+  {
+    "word": "the",
+    "start": 276.18,
+    "end": 276.38,
+    "startFrame": 8285,
+    "endFrame": 8291
+  },
+  {
+    "word": "Olympic",
+    "start": 276.38,
+    "end": 276.68,
+    "startFrame": 8291,
+    "endFrame": 8300
+  },
+  {
+    "word": "podium.",
+    "start": 276.68,
+    "end": 277.2,
+    "startFrame": 8300,
+    "endFrame": 8316
+  },
+  {
+    "word": "Tens",
+    "start": 277.2,
+    "end": 278.14,
+    "startFrame": 8316,
+    "endFrame": 8344
+  },
+  {
+    "word": "of",
+    "start": 278.14,
+    "end": 278.3,
+    "startFrame": 8344,
+    "endFrame": 8349
+  },
+  {
+    "word": "thousands",
+    "start": 278.3,
+    "end": 278.74,
+    "startFrame": 8349,
+    "endFrame": 8362
+  },
+  {
+    "word": "who",
+    "start": 278.74,
+    "end": 279.06,
+    "startFrame": 8362,
+    "endFrame": 8372
+  },
+  {
+    "word": "are",
+    "start": 279.06,
+    "end": 279.22,
+    "startFrame": 8372,
+    "endFrame": 8377
+  },
+  {
+    "word": "eliminated",
+    "start": 279.22,
+    "end": 279.74,
+    "startFrame": 8377,
+    "endFrame": 8392
+  },
+  {
+    "word": "or",
+    "start": 279.74,
+    "end": 280.28,
+    "startFrame": 8392,
+    "endFrame": 8408
+  },
+  {
+    "word": "injured",
+    "start": 280.28,
+    "end": 280.68,
+    "startFrame": 8408,
+    "endFrame": 8420
+  },
+  {
+    "word": "often",
+    "start": 280.68,
+    "end": 281.28,
+    "startFrame": 8420,
+    "endFrame": 8438
+  },
+  {
+    "word": "struggle",
+    "start": 281.28,
+    "end": 281.68,
+    "startFrame": 8438,
+    "endFrame": 8450
+  },
+  {
+    "word": "to",
+    "start": 281.68,
+    "end": 281.9,
+    "startFrame": 8450,
+    "endFrame": 8457
+  },
+  {
+    "word": "reintegrate",
+    "start": 281.9,
+    "end": 282.58,
+    "startFrame": 8457,
+    "endFrame": 8477
+  },
+  {
+    "word": "into",
+    "start": 282.58,
+    "end": 282.78,
+    "startFrame": 8477,
+    "endFrame": 8483
+  },
+  {
+    "word": "normal",
+    "start": 282.78,
+    "end": 283.12,
+    "startFrame": 8483,
+    "endFrame": 8494
+  },
+  {
+    "word": "society,",
+    "start": 283.12,
+    "end": 283.78,
+    "startFrame": 8494,
+    "endFrame": 8513
+  },
+  {
+    "word": "having",
+    "start": 284.26,
+    "end": 284.42,
+    "startFrame": 8528,
+    "endFrame": 8533
+  },
+  {
+    "word": "received",
+    "start": 284.42,
+    "end": 284.9,
+    "startFrame": 8533,
+    "endFrame": 8547
+  },
+  {
+    "word": "limited",
+    "start": 284.9,
+    "end": 285.28,
+    "startFrame": 8547,
+    "endFrame": 8558
+  },
+  {
+    "word": "academic",
+    "start": 285.28,
+    "end": 285.8,
+    "startFrame": 8558,
+    "endFrame": 8574
+  },
+  {
+    "word": "schooling",
+    "start": 285.8,
+    "end": 286.28,
+    "startFrame": 8574,
+    "endFrame": 8588
+  },
+  {
+    "word": "in",
+    "start": 286.28,
+    "end": 286.62,
+    "startFrame": 8588,
+    "endFrame": 8599
+  },
+  {
+    "word": "boarding",
+    "start": 286.62,
+    "end": 286.92,
+    "startFrame": 8599,
+    "endFrame": 8608
+  },
+  {
+    "word": "camps.",
+    "start": 286.92,
+    "end": 287.38,
+    "startFrame": 8608,
+    "endFrame": 8621
+  },
+  {
+    "word": "Yet,",
+    "start": 288.16,
+    "end": 288.5,
+    "startFrame": 8645,
+    "endFrame": 8655
+  },
+  {
+    "word": "a",
+    "start": 288.7,
+    "end": 288.78,
+    "startFrame": 8661,
+    "endFrame": 8663
+  },
+  {
+    "word": "modern",
+    "start": 288.78,
+    "end": 289.1,
+    "startFrame": 8663,
+    "endFrame": 8673
+  },
+  {
+    "word": "shift",
+    "start": 289.1,
+    "end": 289.5,
+    "startFrame": 8673,
+    "endFrame": 8685
+  },
+  {
+    "word": "is",
+    "start": 289.5,
+    "end": 289.76,
+    "startFrame": 8685,
+    "endFrame": 8693
+  },
+  {
+    "word": "now",
+    "start": 289.76,
+    "end": 289.98,
+    "startFrame": 8693,
+    "endFrame": 8699
+  },
+  {
+    "word": "emerging.",
+    "start": 289.98,
+    "end": 290.5,
+    "startFrame": 8699,
+    "endFrame": 8715
+  },
+  {
+    "word": "Contemporary",
+    "start": 291.26,
+    "end": 291.88,
+    "startFrame": 8738,
+    "endFrame": 8756
+  },
+  {
+    "word": "Chinese",
+    "start": 291.88,
+    "end": 292.46,
+    "startFrame": 8756,
+    "endFrame": 8774
+  },
+  {
+    "word": "athletes",
+    "start": 292.46,
+    "end": 292.84,
+    "startFrame": 8774,
+    "endFrame": 8785
+  },
+  {
+    "word": "like",
+    "start": 292.84,
+    "end": 293.38,
+    "startFrame": 8785,
+    "endFrame": 8801
+  },
+  {
+    "word": "Diverquan",
+    "start": 293.38,
+    "end": 294.04,
+    "startFrame": 8801,
+    "endFrame": 8821
+  },
+  {
+    "word": "Haunchan",
+    "start": 294.04,
+    "end": 294.6,
+    "startFrame": 8821,
+    "endFrame": 8838
+  },
+  {
+    "word": "or",
+    "start": 294.6,
+    "end": 294.98,
+    "startFrame": 8838,
+    "endFrame": 8849
+  },
+  {
+    "word": "Tennis",
+    "start": 294.98,
+    "end": 295.32,
+    "startFrame": 8849,
+    "endFrame": 8860
+  },
+  {
+    "word": "Sensation",
+    "start": 295.32,
+    "end": 295.96,
+    "startFrame": 8860,
+    "endFrame": 8879
+  },
+  {
+    "word": "Zheng",
+    "start": 295.96,
+    "end": 296.2,
+    "startFrame": 8879,
+    "endFrame": 8886
+  },
+  {
+    "word": "Kinwen",
+    "start": 296.2,
+    "end": 296.66,
+    "startFrame": 8886,
+    "endFrame": 8900
+  },
+  {
+    "word": "represent",
+    "start": 296.66,
+    "end": 297.38,
+    "startFrame": 8900,
+    "endFrame": 8921
+  },
+  {
+    "word": "a",
+    "start": 297.38,
+    "end": 297.72,
+    "startFrame": 8921,
+    "endFrame": 8932
+  },
+  {
+    "word": "new",
+    "start": 297.72,
+    "end": 297.86,
+    "startFrame": 8932,
+    "endFrame": 8936
+  },
+  {
+    "word": "era.",
+    "start": 297.86,
+    "end": 298.2,
+    "startFrame": 8936,
+    "endFrame": 8946
+  },
+  {
+    "word": "They",
+    "start": 298.78,
+    "end": 299.0,
+    "startFrame": 8963,
+    "endFrame": 8970
+  },
+  {
+    "word": "show",
+    "start": 299.0,
+    "end": 299.2,
+    "startFrame": 8970,
+    "endFrame": 8976
+  },
+  {
+    "word": "more",
+    "start": 299.2,
+    "end": 299.48,
+    "startFrame": 8976,
+    "endFrame": 8984
+  },
+  {
+    "word": "relaxed,",
+    "start": 299.48,
+    "end": 300.08,
+    "startFrame": 8984,
+    "endFrame": 9002
+  },
+  {
+    "word": "expressive",
+    "start": 300.3,
+    "end": 300.78,
+    "startFrame": 9009,
+    "endFrame": 9023
+  },
+  {
+    "word": "personalities",
+    "start": 300.78,
+    "end": 301.48,
+    "startFrame": 9023,
+    "endFrame": 9044
+  },
+  {
+    "word": "and",
+    "start": 301.48,
+    "end": 301.98,
+    "startFrame": 9044,
+    "endFrame": 9059
+  },
+  {
+    "word": "hold",
+    "start": 301.98,
+    "end": 302.24,
+    "startFrame": 9059,
+    "endFrame": 9067
+  },
+  {
+    "word": "global",
+    "start": 302.24,
+    "end": 302.66,
+    "startFrame": 9067,
+    "endFrame": 9080
+  },
+  {
+    "word": "commercial",
+    "start": 302.66,
+    "end": 303.16,
+    "startFrame": 9080,
+    "endFrame": 9095
+  },
+  {
+    "word": "endorsements.",
+    "start": 303.16,
+    "end": 303.56,
+    "startFrame": 9095,
+    "endFrame": 9107
+  },
+  {
+    "word": "In",
+    "start": 303.56,
+    "end": 304.36,
+    "startFrame": 9107,
+    "endFrame": 9131
+  },
+  {
+    "word": "stark",
+    "start": 304.36,
+    "end": 304.62,
+    "startFrame": 9131,
+    "endFrame": 9139
+  },
+  {
+    "word": "contrast",
+    "start": 304.62,
+    "end": 305.2,
+    "startFrame": 9139,
+    "endFrame": 9156
+  },
+  {
+    "word": "to",
+    "start": 305.2,
+    "end": 305.64,
+    "startFrame": 9156,
+    "endFrame": 9169
+  },
+  {
+    "word": "the",
+    "start": 305.64,
+    "end": 305.78,
+    "startFrame": 9169,
+    "endFrame": 9173
+  },
+  {
+    "word": "rigid,",
+    "start": 305.78,
+    "end": 306.08,
+    "startFrame": 9173,
+    "endFrame": 9182
+  },
+  {
+    "word": "sheltered",
+    "start": 306.38,
+    "end": 306.96,
+    "startFrame": 9191,
+    "endFrame": 9209
+  },
+  {
+    "word": "generations",
+    "start": 306.96,
+    "end": 307.26,
+    "startFrame": 9209,
+    "endFrame": 9218
+  },
+  {
+    "word": "of",
+    "start": 307.26,
+    "end": 307.66,
+    "startFrame": 9218,
+    "endFrame": 9230
+  },
+  {
+    "word": "the",
+    "start": 307.66,
+    "end": 307.76,
+    "startFrame": 9230,
+    "endFrame": 9233
+  },
+  {
+    "word": "past.",
+    "start": 307.76,
+    "end": 308.18,
+    "startFrame": 9233,
+    "endFrame": 9245
+  },
+  {
+    "word": "In",
+    "start": 308.88,
+    "end": 309.1,
+    "startFrame": 9266,
+    "endFrame": 9273
+  },
+  {
+    "word": "conclusion,",
+    "start": 309.1,
+    "end": 309.56,
+    "startFrame": 9273,
+    "endFrame": 9287
+  },
+  {
+    "word": "for",
+    "start": 309.98,
+    "end": 310.04,
+    "startFrame": 9299,
+    "endFrame": 9301
+  },
+  {
+    "word": "China,",
+    "start": 310.04,
+    "end": 310.42,
+    "startFrame": 9301,
+    "endFrame": 9313
+  },
+  {
+    "word": "every",
+    "start": 310.94,
+    "end": 311.16,
+    "startFrame": 9328,
+    "endFrame": 9335
+  },
+  {
+    "word": "Olympic",
+    "start": 311.16,
+    "end": 311.56,
+    "startFrame": 9335,
+    "endFrame": 9347
+  },
+  {
+    "word": "and",
+    "start": 311.56,
+    "end": 311.82,
+    "startFrame": 9347,
+    "endFrame": 9355
+  },
+  {
+    "word": "Asian",
+    "start": 311.82,
+    "end": 312.14,
+    "startFrame": 9355,
+    "endFrame": 9364
+  },
+  {
+    "word": "games",
+    "start": 312.14,
+    "end": 312.46,
+    "startFrame": 9364,
+    "endFrame": 9374
+  },
+  {
+    "word": "gold",
+    "start": 312.46,
+    "end": 312.8,
+    "startFrame": 9374,
+    "endFrame": 9384
+  },
+  {
+    "word": "medal",
+    "start": 312.8,
+    "end": 313.14,
+    "startFrame": 9384,
+    "endFrame": 9394
+  },
+  {
+    "word": "is",
+    "start": 313.14,
+    "end": 313.64,
+    "startFrame": 9394,
+    "endFrame": 9409
+  },
+  {
+    "word": "far",
+    "start": 313.64,
+    "end": 313.96,
+    "startFrame": 9409,
+    "endFrame": 9419
+  },
+  {
+    "word": "more",
+    "start": 313.96,
+    "end": 314.22,
+    "startFrame": 9419,
+    "endFrame": 9427
+  },
+  {
+    "word": "than",
+    "start": 314.22,
+    "end": 314.42,
+    "startFrame": 9427,
+    "endFrame": 9433
+  },
+  {
+    "word": "an",
+    "start": 314.42,
+    "end": 314.56,
+    "startFrame": 9433,
+    "endFrame": 9437
+  },
+  {
+    "word": "athletic",
+    "start": 314.56,
+    "end": 314.9,
+    "startFrame": 9437,
+    "endFrame": 9447
+  },
+  {
+    "word": "trophy.",
+    "start": 314.9,
+    "end": 315.4,
+    "startFrame": 9447,
+    "endFrame": 9462
+  },
+  {
+    "word": "It",
+    "start": 316.1,
+    "end": 316.28,
+    "startFrame": 9483,
+    "endFrame": 9488
+  },
+  {
+    "word": "is",
+    "start": 316.28,
+    "end": 316.38,
+    "startFrame": 9488,
+    "endFrame": 9491
+  },
+  {
+    "word": "an",
+    "start": 316.38,
+    "end": 316.5,
+    "startFrame": 9491,
+    "endFrame": 9495
+  },
+  {
+    "word": "instrument",
+    "start": 316.5,
+    "end": 316.94,
+    "startFrame": 9495,
+    "endFrame": 9508
+  },
+  {
+    "word": "of",
+    "start": 316.94,
+    "end": 317.22,
+    "startFrame": 9508,
+    "endFrame": 9517
+  },
+  {
+    "word": "geopolitics",
+    "start": 317.22,
+    "end": 318.1,
+    "startFrame": 9517,
+    "endFrame": 9543
+  },
+  {
+    "word": "and",
+    "start": 318.1,
+    "end": 318.28,
+    "startFrame": 9543,
+    "endFrame": 9548
+  },
+  {
+    "word": "ideological",
+    "start": 318.28,
+    "end": 318.92,
+    "startFrame": 9548,
+    "endFrame": 9568
+  },
+  {
+    "word": "legitimacy.",
+    "start": 318.92,
+    "end": 319.74,
+    "startFrame": 9568,
+    "endFrame": 9592
+  },
+  {
+    "word": "This",
+    "start": 320.52,
+    "end": 320.84,
+    "startFrame": 9616,
+    "endFrame": 9625
+  },
+  {
+    "word": "relentless",
+    "start": 320.84,
+    "end": 321.26,
+    "startFrame": 9625,
+    "endFrame": 9638
+  },
+  {
+    "word": "pursuit",
+    "start": 321.26,
+    "end": 321.74,
+    "startFrame": 9638,
+    "endFrame": 9652
+  },
+  {
+    "word": "is",
+    "start": 321.74,
+    "end": 322.26,
+    "startFrame": 9652,
+    "endFrame": 9668
+  },
+  {
+    "word": "designed",
+    "start": 322.26,
+    "end": 322.66,
+    "startFrame": 9668,
+    "endFrame": 9680
+  },
+  {
+    "word": "to",
+    "start": 322.66,
+    "end": 322.92,
+    "startFrame": 9680,
+    "endFrame": 9688
+  },
+  {
+    "word": "send",
+    "start": 322.92,
+    "end": 323.14,
+    "startFrame": 9688,
+    "endFrame": 9694
+  },
+  {
+    "word": "one",
+    "start": 323.14,
+    "end": 323.42,
+    "startFrame": 9694,
+    "endFrame": 9703
+  },
+  {
+    "word": "definitive",
+    "start": 323.42,
+    "end": 323.86,
+    "startFrame": 9703,
+    "endFrame": 9716
+  },
+  {
+    "word": "message",
+    "start": 323.86,
+    "end": 324.36,
+    "startFrame": 9716,
+    "endFrame": 9731
+  },
+  {
+    "word": "to",
+    "start": 324.36,
+    "end": 324.86,
+    "startFrame": 9731,
+    "endFrame": 9746
+  },
+  {
+    "word": "its",
+    "start": 324.86,
+    "end": 325.02,
+    "startFrame": 9746,
+    "endFrame": 9751
+  },
+  {
+    "word": "citizens",
+    "start": 325.02,
+    "end": 325.42,
+    "startFrame": 9751,
+    "endFrame": 9763
+  },
+  {
+    "word": "and",
+    "start": 325.42,
+    "end": 325.92,
+    "startFrame": 9763,
+    "endFrame": 9778
+  },
+  {
+    "word": "the",
+    "start": 325.92,
+    "end": 326.02,
+    "startFrame": 9778,
+    "endFrame": 9781
+  },
+  {
+    "word": "world.",
+    "start": 326.02,
+    "end": 326.38,
+    "startFrame": 9781,
+    "endFrame": 9791
+  },
+  {
+    "word": "That",
+    "start": 326.38,
+    "end": 327.1,
+    "startFrame": 9791,
+    "endFrame": 9813
+  },
+  {
+    "word": "collective",
+    "start": 327.1,
+    "end": 327.56,
+    "startFrame": 9813,
+    "endFrame": 9827
+  },
+  {
+    "word": "state",
+    "start": 327.56,
+    "end": 327.92,
+    "startFrame": 9827,
+    "endFrame": 9838
+  },
+  {
+    "word": "discipline",
+    "start": 327.92,
+    "end": 328.46,
+    "startFrame": 9838,
+    "endFrame": 9854
+  },
+  {
+    "word": "can",
+    "start": 328.46,
+    "end": 329.02,
+    "startFrame": 9854,
+    "endFrame": 9871
+  },
+  {
+    "word": "engineer",
+    "start": 329.02,
+    "end": 329.58,
+    "startFrame": 9871,
+    "endFrame": 9887
+  },
+  {
+    "word": "everyday",
+    "start": 329.58,
+    "end": 330.14,
+    "startFrame": 9887,
+    "endFrame": 9904
+  },
+  {
+    "word": "mortals",
+    "start": 330.14,
+    "end": 330.68,
+    "startFrame": 9904,
+    "endFrame": 9920
+  },
+  {
+    "word": "into",
+    "start": 330.68,
+    "end": 330.94,
+    "startFrame": 9920,
+    "endFrame": 9928
+  },
+  {
+    "word": "number",
+    "start": 330.94,
+    "end": 331.2,
+    "startFrame": 9928,
+    "endFrame": 9936
+  },
+  {
+    "word": "one",
+    "start": 331.2,
+    "end": 331.44,
+    "startFrame": 9936,
+    "endFrame": 9943
+  },
+  {
+    "word": "champions",
+    "start": 331.44,
+    "end": 331.9,
+    "startFrame": 9943,
+    "endFrame": 9957
+  },
+  {
+    "word": "of",
+    "start": 331.9,
+    "end": 332.22,
+    "startFrame": 9957,
+    "endFrame": 9967
+  },
+  {
+    "word": "the",
+    "start": 332.22,
+    "end": 332.34,
+    "startFrame": 9967,
+    "endFrame": 9970
+  },
+  {
+    "word": "world.",
+    "start": 332.34,
+    "end": 332.62,
+    "startFrame": 9970,
+    "endFrame": 9979
+  }
+]

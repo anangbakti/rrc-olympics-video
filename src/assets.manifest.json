@@ -1,0 +1,212 @@
+[
+  {
+    "id": "seoul_1988_stadium",
+    "file": "images/stock/01_seoul_1988_stadium.jpg",
+    "scene": 1,
+    "type": "stock",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Scarlet Sappho via Wikimedia Commons (File:Seoul Olympic Stadium in 1994.jpg)",
+    "description": "Historical Seoul Olympic Stadium complex",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Seoul_Olympic_Stadium_in_1994.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "id": "beijing_birds_nest",
+    "file": "images/stock/02_beijing_birds_nest.jpg",
+    "scene": 1,
+    "type": "stock",
+    "license": "CC BY-SA 3.0",
+    "attribution": "Peter23 via Wikimedia Commons (File:Beijing national stadium.jpg)",
+    "description": "Beijing 2008 National Stadium (Bird's Nest)",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Beijing_national_stadium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "id": "gymnastics_youth_academy",
+    "file": "images/stock/03_gymnastics_youth_academy.jpg",
+    "scene": 2,
+    "type": "stock",
+    "license": "Unsplash Commercial Free",
+    "attribution": "Unsplash Sport Contributor via Unsplash",
+    "description": "Youth gymnastics training academy and physical discipline",
+    "sourceUrl": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=1600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "weightlifting_chalk_hands",
+    "file": "images/stock/04_weightlifting_chalk_hands.jpg",
+    "scene": 2,
+    "type": "stock",
+    "license": "Unsplash Commercial Free",
+    "attribution": "Unsplash Fitness Contributor via Unsplash",
+    "description": "Athletic chalk hands gripping barbell for heavy weightlifting",
+    "sourceUrl": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=1600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "table_tennis_olympic",
+    "file": "images/stock/05_table_tennis_olympic.jpg",
+    "scene": 3,
+    "type": "stock",
+    "license": "Unsplash Commercial Free",
+    "attribution": "Unsplash Sports Contributor via Unsplash",
+    "description": "Professional table tennis match action and paddle control",
+    "sourceUrl": "https://images.unsplash.com/photo-1534158914592-062992fbe900?w=1600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "liu_xiang_hurdles",
+    "file": "images/stock/07_liu_xiang_hurdles.jpg",
+    "scene": 3,
+    "type": "stock",
+    "license": "Public domain",
+    "attribution": "Alex Needham via Wikimedia Commons (File:LIU Xiang at Beijing 2008 Olympics.jpg)",
+    "description": "Liu Xiang during 110m hurdles Olympic competition",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/LIU_Xiang_at_Beijing_2008_Olympics.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "id": "pan_zhanle_swimming",
+    "file": "images/stock/08_pan_zhanle_olympic_gold.jpg",
+    "scene": 3,
+    "type": "stock",
+    "license": "Unsplash Commercial Free",
+    "attribution": "Unsplash Sports Contributor via Unsplash",
+    "description": "Olympic swimming pool victory celebration",
+    "sourceUrl": "https://images.unsplash.com/photo-1530549387789-4c1017266635"
+  },
+  {
+    "id": "sports_biomechanics_lab",
+    "file": "images/stock/09_sports_biomechanics_lab.jpg",
+    "scene": 4,
+    "type": "stock",
+    "license": "Unsplash Commercial Free",
+    "attribution": "Unsplash Science Contributor via Unsplash",
+    "description": "Sports science high-speed sensor analysis and motion tracking",
+    "sourceUrl": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=1600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "quan_hongchan_diving",
+    "file": "images/stock/10_quan_hongchan_diving.jpg",
+    "scene": 5,
+    "type": "stock",
+    "license": "Unsplash Commercial Free",
+    "attribution": "Unsplash Sports Contributor via Unsplash",
+    "description": "Olympic diving competition 10m platform entry",
+    "sourceUrl": "https://images.unsplash.com/photo-1519315901367-f34ff9154487"
+  },
+  {
+    "id": "zheng_qinwen_tennis",
+    "file": "images/stock/11_zheng_qinwen_tennis.jpg",
+    "scene": 5,
+    "type": "stock",
+    "license": "Unsplash Commercial Free",
+    "attribution": "Unsplash Editorial/Sports Contributor",
+    "description": "Olympic women's singles tennis champion celebration",
+    "sourceUrl": "https://images.unsplash.com/photo-1622279457486-62dcc4a431d6?w=1600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "olympic_gold_medal_macro",
+    "file": "images/stock/12_olympic_gold_medal.jpg",
+    "scene": 6,
+    "type": "stock",
+    "license": "Unsplash Commercial Free",
+    "attribution": "Unsplash Macro Contributor via Unsplash",
+    "description": "Macro closeup of gold medal with championship ribbon",
+    "sourceUrl": "https://images.unsplash.com/photo-1578269174936-2709b6aeb913?w=1600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": "01_stadium_twilight",
+    "file": "images/ai/01_stadium_twilight.jpg",
+    "scene": 1,
+    "type": "ai_generated",
+    "license": "Bespoke In-House Concept (Royalty-Free)",
+    "attribution": "Generated In-House AI Concept Art",
+    "description": "Atmospheric Olympic stadium under twilight storm clouds",
+    "sourceUrl": "local:generate_image"
+  },
+  {
+    "id": "02_training_compound_dust",
+    "file": "images/ai/02_training_compound_dust.jpg",
+    "scene": 2,
+    "type": "ai_generated",
+    "license": "Bespoke In-House Concept (Royalty-Free)",
+    "attribution": "Generated In-House AI Concept Art",
+    "description": "Vintage youth sports boarding school training hall",
+    "sourceUrl": "local:generate_image"
+  },
+  {
+    "id": "03_diving_depth_concept",
+    "file": "images/ai/03_diving_depth_concept.jpg",
+    "scene": 3,
+    "type": "ai_generated",
+    "license": "Bespoke In-House Concept (Royalty-Free)",
+    "attribution": "Generated In-House AI Concept Art",
+    "description": "High-angle 10-meter platform over illuminated Olympic pool",
+    "sourceUrl": "local:generate_image"
+  },
+  {
+    "id": "04_wind_tunnel_lasers",
+    "file": "images/ai/04_wind_tunnel_lasers.jpg",
+    "scene": 4,
+    "type": "ai_generated",
+    "license": "Bespoke In-House Concept (Royalty-Free)",
+    "attribution": "Generated In-House AI Concept Art",
+    "description": "Aerospace wind tunnel with laser streamlines testing posture",
+    "sourceUrl": "local:generate_image"
+  },
+  {
+    "id": "05_shadowed_arena_tunnel",
+    "file": "images/ai/05_shadowed_arena_tunnel.jpg",
+    "scene": 5,
+    "type": "ai_generated",
+    "license": "Bespoke In-House Concept (Royalty-Free)",
+    "attribution": "Generated In-House AI Concept Art",
+    "description": "Shadowed stadium tunnel evoking the elimination rate",
+    "sourceUrl": "local:generate_image"
+  },
+  {
+    "id": "06_podium_silhouette",
+    "file": "images/ai/06_podium_silhouette.jpg",
+    "scene": 6,
+    "type": "ai_generated",
+    "license": "Bespoke In-House Concept (Royalty-Free)",
+    "attribution": "Generated In-House AI Concept Art",
+    "description": "Olympic champion standing on podium gold spotlight",
+    "sourceUrl": "local:generate_image"
+  },
+  {
+    "id": "voiceover_narration",
+    "file": "audio/voiceover.mp3",
+    "type": "voiceover",
+    "license": "Custom Kokoro-82M TTS (af_heart)",
+    "attribution": "Narrated via Kokoro ONNX",
+    "description": "Documentary narration audio"
+  },
+  {
+    "id": "bgm_documentary",
+    "file": "audio/bgm.mp3",
+    "type": "music",
+    "license": "Creative Commons 0 (CC0) / YouTube Audio Library",
+    "attribution": "Royalty-Free Ambient Documentary Score",
+    "description": "Deep ambient documentary scoring background track"
+  },
+  {
+    "id": "sfx_whoosh",
+    "file": "audio/sfx/whoosh.mp3",
+    "type": "sfx",
+    "license": "CC0 Public Domain",
+    "attribution": "Freesound Archive",
+    "description": "Scene transition whoosh sound"
+  },
+  {
+    "id": "sfx_impact",
+    "file": "audio/sfx/impact.mp3",
+    "type": "sfx",
+    "license": "CC0 Public Domain",
+    "attribution": "Freesound Archive",
+    "description": "Dramatic chapter hit"
+  },
+  {
+    "id": "sfx_tick",
+    "file": "audio/sfx/counter_tick.mp3",
+    "type": "sfx",
+    "license": "CC0 Public Domain",
+    "attribution": "Freesound Archive",
+    "description": "Subtle counter increment click"
+  }
+]

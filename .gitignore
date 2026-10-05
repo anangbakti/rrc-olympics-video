@@ -1,7 +1,81 @@
-node_modules
-dist
-.DS_Store
-.env
+# ==========================================
+# Dependencies
+# ==========================================
+node_modules/
+.pnp
+.pnp.js
 
-# Ignore the output video from Git but not videos you import into src/.
-out
+# ==========================================
+# Production Builds & Remotion Video Renders
+# ==========================================
+dist/
+build/
+out/
+.remotion/
+*.mp4
+*.webm
+*.mkv
+*.mov
+*.avi
+
+# ==========================================
+# AI Models & Large Binary Weights
+# ==========================================
+kokoro_models/
+*.onnx
+*.bin
+
+# ==========================================
+# Python Virtual Environments & Bytecode
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+.pytest_cache/
+
+# ==========================================
+# Audio Working Intermediates (Raw / WAV)
+# ==========================================
+*.wav
+voiceover_af_heart.mp3
+
+# ==========================================
+# Environment Variables & Secrets
+# ==========================================
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# ==========================================
+# OS & IDE Files
+# ==========================================
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+*~
+
+# ==========================================
+# Logs
+# ==========================================
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*

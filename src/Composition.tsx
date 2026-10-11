@@ -29,8 +29,7 @@ export const calculateVideoMetadata: CalculateMetadataFunction<MasterVideoProps>
   }
 
   const voiceoverFrames = Math.ceil(voSec * fps);
-  const outroTailFrames = 12 * fps; // 12 seconds clean outro tail
-  const totalFrames = voiceoverFrames + outroTailFrames;
+  const totalFrames = voiceoverFrames;
 
   return {
     durationInFrames: totalFrames,
@@ -45,7 +44,7 @@ export const calculateVideoMetadata: CalculateMetadataFunction<MasterVideoProps>
 };
 
 export const FullVideo: React.FC<MasterVideoProps> = ({ words, voDurationFrames }) => {
-  const totalFrames = voDurationFrames + 360;
+  const totalFrames = voDurationFrames;
 
   // Precompute smooth DSP ducking volume envelope
   const bgmEnvelope = useMemo(() => {
@@ -110,7 +109,7 @@ export const FullVideo: React.FC<MasterVideoProps> = ({ words, voDurationFrames 
         <Scene5_DarkSideAndModern />
       </Sequence>
 
-      <Sequence from={9255} durationInFrames={1095} premountFor={1}>
+      <Sequence from={9255} durationInFrames={735} premountFor={1}>
         <Scene6_GeopoliticsAndEndScreen />
       </Sequence>
 

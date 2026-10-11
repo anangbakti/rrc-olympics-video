@@ -87,6 +87,12 @@ The project generates broadcast-quality historical video essays through code, co
 - Maintaining machine-readable manifest at [src/assets.manifest.json](file:///d:/PROJECTS/yt/hist/4okt26/src/assets.manifest.json).
 - Auditing public domain, Creative Commons (CC BY-SA 3.0/4.0), and Unsplash commercial-free licensing.
 - Integrating subtle on-screen source badges (`SourceCitation.tsx`) to build journalistic authority.
+- **Hybrid Visual Strategy (Authentic Archival vs. Google Veo B-Roll)**:
+  - *Champions & Historical Record*: 100% authentic archival photography (Quan Hongchan, Zheng Qinwen, Ma Long, Li Fabin, Chen Ruolin, Liu Xiang, Pan Zhanle, Shichahai Sports School). Never generate synthetic AI figures for historical champions.
+  - *Environmental B-Roll*: Google Veo cinematic documentary clips (`public/videos/veo/`) for atmospheric mood (stadium twilight, aerospace wind tunnel, athlete tunnel walk, podium ceremony).
+- **Portrait Archival Framing Pattern**:
+  - Vertical photos (aspect < 1.0) must never be stretched with `object-fit: cover` on 16:9 widescreen to avoid cropping out heads/faces.
+  - Implement the **Spotlight Framed Card Layout**: scaled 30px blurred background backdrop + 0.725 framed aspect ratio card + editorial metadata typography block.
 
 ### 2.5 YouTube Growth & Thumbnail Engineering
 - **High-CTR Visual Thumbnails**:
@@ -179,6 +185,9 @@ npx remotion still ThumbnailC out/thumb_c.png
    - Subtitles must stay within the bottom 15% safe area with sufficient padding to prevent overlap with YouTube playback controls.
 4. **Scene Modularity**:
    - Each narrative scene must live in its own file under `src/scenes/` and export a standalone component with an explicit frame budget defined in [src/scenes.data.ts](file:///d:/PROJECTS/yt/hist/4okt26/src/scenes.data.ts).
+5. **High-Retention Visual Pacing (3.0s – 4.5s Rule)**:
+   - Avoid slideshow fatigue: no static scene or graphic should remain on screen for longer than 4.5 seconds (135 frames at 30 FPS).
+   - Break chapters into modular micro-sequences alternating between archival footage, data cards, Ken Burns motion, and infographic telemetry.
 
 ---
 
@@ -187,6 +196,8 @@ npx remotion still ThumbnailC out/thumb_c.png
 - **Subtitles drifting or out of sync**:
   - Verify that `FPS` in `scripts/align_subtitles.py` matches Remotion composition FPS (`30`).
   - Ensure `public/audio/voiceover.mp3` corresponds exactly to the aligned audio file.
+- **Whisper numeric hallucinations & word glitches**:
+  - Automatically audit `public/subtitles/words.json` against `content_en.md` for spoken numbers (e.g. ensure "forty-eight" does not transcribe as "four gold medals. 38").
 - **Whisper word dropouts**:
   - Check the initial prompt in `scripts/align_subtitles.py` to include proper nouns (e.g. *Juguo Tizhi, Quan Hongchan, Pan Zhanle, Liu Xiang*).
 - **Audio clipping or distortion**:

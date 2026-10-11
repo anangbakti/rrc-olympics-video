@@ -33,10 +33,12 @@ This documentary breaks down the institutional machine behind China's sports sup
 |---|---|
 | **Resolution** | 1920 × 1080 (1080p Full HD, 16:9 Landscape) |
 | **Frame Rate** | 30.00 FPS |
-| **Duration** | 10,350 frames (~5 minutes 45 seconds) |
+| **Duration** | 10,005 frames (~5 minutes 33 seconds) |
+| **Pacing Rule** | High-retention micro-sequences (3.0s – 4.5s per visual transition) |
 | **Master Voiceover** | Kokoro-ONNX `af_heart` (24kHz Neural TTS) |
 | **Background Music** | Procedurally synthesized ambient drone in D minor with dynamic DSP ducking |
 | **Subtitles** | Word-level kinetic karaoke subtitles with Faster-Whisper alignment |
+| **B-Roll & Visuals** | 100% authentic Chinese Olympic archival media + Google Veo cinematic clips |
 | **Thumbnail Compositions** | 3 High-CTR variants (`ThumbnailA`, `ThumbnailB`, `ThumbnailC`) |
 
 ---
@@ -64,7 +66,8 @@ This documentary breaks down the institutional machine behind China's sports sup
 │   │   ├── bgm.mp3              # Procedural ambient documentary score
 │   │   ├── voiceover.mp3        # Master voiceover audio
 │   │   └── sfx/                 # Synthesized SFX (impact, whoosh, counter_tick)
-│   ├── images/stock/            # Downloaded historical and sports imagery
+│   ├── images/stock/            # Authentic historical & Olympic archival media
+│   ├── videos/veo/              # Google Veo cinematic documentary B-roll (35mm film style)
 │   └── subtitles/
 │       ├── subtitles.json       # Paragraph-level subtitle segments
 │       └── words.json           # Word-level timestamps with startFrame and endFrame
@@ -142,12 +145,12 @@ npm run dev
 ### Render Master Video
 Render the full documentary to an MP4 container:
 ```bash
-npx remotion render FullVideo out/china_olympic_dominance.mp4
+npx remotion render FullVideo out/china_olympic_master.mp4
 ```
 
 To optimize render speed with multi-threading:
 ```bash
-npx remotion render FullVideo out/china_olympic_dominance.mp4 --concurrency=8
+npx remotion render FullVideo out/china_olympic_master.mp4 --concurrency=8
 ```
 
 ### Render 5-Second Teaser MP4 & Convert to GIF
@@ -171,9 +174,9 @@ npx remotion render Scene3 out/scene_3.mp4
 ### Render High-CTR Thumbnails
 Export single-frame 1080p thumbnail stills:
 ```bash
-npx remotion still ThumbnailA out/thumbnail_option_a.png
-npx remotion still ThumbnailB out/thumbnail_option_b.png
-npx remotion still ThumbnailC out/thumbnail_option_c.png
+npx remotion still ThumbnailA out/thumbnail_A.png
+npx remotion still ThumbnailB out/thumbnail_B.png
+npx remotion still ThumbnailC out/thumbnail_C.png
 ```
 
 ---
@@ -182,12 +185,12 @@ npx remotion still ThumbnailC out/thumbnail_option_c.png
 
 | Scene | Chapter | Timecode | Key Narrative & Visual Focus |
 |---|---|---|---|
-| **Scene 1** | *The Historical Paradox* | `00:00 - 01:19` | "Sick Man of East Asia", Seoul 1988 crisis, Beijing 2008 & Paris 2024 dominance |
-| **Scene 2** | *Juguo Tizhi* | `01:19 - 02:21` | The Whole-Nation System, kindergarten scouting, 3,000 sports boarding schools |
-| **Scene 3** | *Project 119* | `02:21 - 03:46` | The 6 core monopoly sports, avoiding team sports, Project 119 breakthrough |
-| **Scene 4** | *Sports Science* | `03:46 - 04:13` | High-speed sensor telemetry, aerospace wind tunnels, biomechanical engineering |
+| **Scene 1** | *The Historical Paradox* | `00:00 - 01:19` | "Sick Man of East Asia", Seoul 1988 crisis, Asian Games streak, Beijing 2008 & Paris 2024 dominance |
+| **Scene 2** | *Juguo Tizhi* | `01:19 - 02:21` | The Whole-Nation System, kindergarten scouting, 3,000 boarding schools, Shichahai Sports School, Li Fabin |
+| **Scene 3** | *Project 119* | `02:21 - 03:46` | The 6 core monopoly sports, avoiding team sports, Project 119 breakthrough (Liu Xiang & Pan Zhanle) |
+| **Scene 4** | *Sports Science* | `03:46 - 04:13` | CALT aerospace wind tunnels, aerodynamic drag analysis, biomechanical engineering telemetry |
 | **Scene 5** | *The Human Cost & Modern Era* | `04:13 - 05:08` | The 0.1% pyramid fallout vs. modern expressive stars (Quan Hongchan, Zheng Qinwen) |
-| **Scene 6** | *Geopolitics & Outro* | `05:08 - 05:45` | Sports as national legitimacy, credits, and YouTube end screen subscriber cards |
+| **Scene 6** | *Geopolitics & Climax* | `05:08 - 05:33` | Sports as national legitimacy, 100-year national redemption, punchy closing statement |
 
 ---
 

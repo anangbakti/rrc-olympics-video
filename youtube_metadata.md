@@ -36,7 +36,6 @@ TIMESTAMPS:
 04:14 - The Dark Side of the Machine
 04:48 - The Modern Shift: Quan Hongchan & Zheng Qinwen
 05:09 - Conclusion: Sports as Geopolitics
-05:33 - Channel Recommendations & Credits
 
 MUSIC & SOUND EFFECTS:
 - Soundtrack: Ambient Documentary Score (CC0 / Royalty-Free)

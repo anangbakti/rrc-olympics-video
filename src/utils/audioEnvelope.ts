@@ -17,13 +17,7 @@ export function createBgmEnvelope(
     }
   }
 
-  // 2. Outro tail (last 360 frames = 12s): swell to 0.25
-  const outroStart = Math.max(0, totalFrames - 360);
-  for (let f = outroStart; f < totalFrames; f++) {
-    raw[f] = 0.25;
-  }
-
-  // 3. DSP One-Pole Filter: rapid attack down, gentle release up
+  // 2. DSP One-Pole Filter: rapid attack down, gentle release up
   const smoothed = new Float32Array(totalFrames);
   let current = raw[0];
   const ATTACK = 0.50;  // Rapid drop down to 0.08 (~3 frames)

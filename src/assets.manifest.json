@@ -43,11 +43,11 @@
     "id": "table_tennis_olympic",
     "file": "images/stock/05_table_tennis_olympic.jpg",
     "scene": 3,
-    "type": "stock",
-    "license": "Unsplash Commercial Free",
-    "attribution": "Unsplash Sports Contributor via Unsplash",
-    "description": "Professional table tennis match action and paddle control",
-    "sourceUrl": "https://images.unsplash.com/photo-1534158914592-062992fbe900?w=1600&auto=format&fit=crop&q=80"
+    "type": "archival",
+    "license": "CC BY-SA 2.0",
+    "attribution": "Pierre-Yves Beaudouin via Wikimedia Commons (File:2013-05-18 - Championnats du monde de tennis de table - Ma Long - 002.jpg)",
+    "description": "Olympic Champion Ma Long 4K ultra-high resolution match action",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/2013-05-18_-_Championnats_du_monde_de_tennis_de_table_-_Ma_Long_-_002.jpg"
   },
   {
     "id": "liu_xiang_hurdles",
@@ -110,24 +110,50 @@
     "sourceUrl": "https://images.unsplash.com/photo-1578269174936-2709b6aeb913?w=1600&auto=format&fit=crop&q=80"
   },
   {
-    "id": "01_stadium_twilight",
-    "file": "images/ai/01_stadium_twilight.jpg",
-    "scene": 1,
-    "type": "ai_generated",
-    "license": "Bespoke In-House Concept (Royalty-Free)",
-    "attribution": "Generated In-House AI Concept Art",
-    "description": "Atmospheric Olympic stadium under twilight storm clouds",
-    "sourceUrl": "local:generate_image"
+    "id": "shichahai_sports_school",
+    "file": "images/stock/02_shichahai_sports_school.jpg",
+    "scene": 2,
+    "type": "archival",
+    "license": "CC BY-SA 4.0",
+    "attribution": "N509FZ via Wikimedia Commons (File:Beijing Shichahai Sports School)",
+    "description": "Beijing Shichahai Sports School entrance gate and national athletic compound",
+    "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Beijing_Shichahai_Sports_School_%2820221026155050%29.jpg"
   },
   {
-    "id": "02_training_compound_dust",
-    "file": "images/ai/02_training_compound_dust.jpg",
-    "scene": 2,
-    "type": "ai_generated",
-    "license": "Bespoke In-House Concept (Royalty-Free)",
-    "attribution": "Generated In-House AI Concept Art",
-    "description": "Vintage youth sports boarding school training hall",
-    "sourceUrl": "local:generate_image"
+    "id": "veo_stadium_exterior",
+    "file": "videos/veo/01_stadium_exterior.mp4",
+    "scene": 1,
+    "type": "b_roll_video",
+    "license": "Google Veo Generated Documentary B-Roll",
+    "attribution": "Google Veo 35mm Cinematic Documentary Video",
+    "description": "Cinematic dusk wide shot of Olympic stadium with dramatic clouds"
+  },
+  {
+    "id": "veo_aerospace_wind_tunnel",
+    "file": "videos/veo/06_aerospace_wind_tunnel.mp4",
+    "scene": 4,
+    "type": "b_roll_video",
+    "license": "Google Veo Generated Documentary B-Roll",
+    "attribution": "Google Veo 35mm Cinematic Documentary Video",
+    "description": "Aerodynamic aerospace wind tunnel with smoke streamlines testing athletic posture"
+  },
+  {
+    "id": "veo_stadium_tunnel_walk",
+    "file": "videos/veo/07_stadium_tunnel_walk.mp4",
+    "scene": 5,
+    "type": "b_roll_video",
+    "license": "Google Veo Generated Documentary B-Roll",
+    "attribution": "Google Veo 35mm Cinematic Documentary Video",
+    "description": "Dark concrete athlete corridor tunnel leading toward bright arena light"
+  },
+  {
+    "id": "veo_podium_ceremony",
+    "file": "videos/veo/08_olympic_podium_ceremony.mp4",
+    "scene": 6,
+    "type": "b_roll_video",
+    "license": "Google Veo Generated Documentary B-Roll",
+    "attribution": "Google Veo 35mm Cinematic Documentary Video",
+    "description": "Olympic gold medal podium ceremony with golden spotlight and confetti"
   },
   {
     "id": "03_diving_depth_concept",

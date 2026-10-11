@@ -77,7 +77,7 @@ export const RemotionRoot: React.FC = () => {
       <Composition
         id="Scene6"
         component={Scene6_GeopoliticsAndEndScreen}
-        durationInFrames={1095}
+        durationInFrames={735}
         fps={30}
         width={1920}
         height={1080}

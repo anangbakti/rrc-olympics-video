@@ -1,128 +1,64 @@
 import React from "react";
-import { AbsoluteFill, Sequence, staticFile, useCurrentFrame } from "remotion";
+import { AbsoluteFill, Sequence, staticFile, OffthreadVideo } from "remotion";
 import { KenBurnsImage } from "../components/KenBurnsImage";
 import { SourceCitation } from "../components/SourceCitation";
 
 export const Scene6_GeopoliticsAndEndScreen: React.FC = () => {
-  const frame = useCurrentFrame();
 
   return (
     <AbsoluteFill style={{ backgroundColor: "#060A12", overflow: "hidden" }}>
-      {/* 308.5s - 318.0s (Frames 0 - 285): Podium Silhouette (Beat at 165 frames) */}
-      <Sequence from={0} durationInFrames={285}>
-        <KenBurnsImage
-          src={staticFile("images/ai/06_podium_silhouette.jpg")}
-          durationInFrames={285}
-          direction="zoom-in"
+      {/* 308.5s - 312.5s (Frames 0 - 120): Veo Podium Ceremony Video (4.0s) */}
+      <Sequence from={0} durationInFrames={120}>
+        <OffthreadVideo
+          src={staticFile("videos/veo/08_olympic_podium_ceremony.mp4")}
+          style={{ width: "100%", height: "100%", objectFit: "cover" }}
+          muted
         />
-        <div style={{ position: "absolute", bottom: 180, left: 80, padding: "20px 32px", backgroundColor: "rgba(10, 16, 28, 0.90)", borderRadius: 20 }}>
+        <div style={{ position: "absolute", bottom: 180, left: 80, padding: "16px 28px", backgroundColor: "rgba(10, 16, 28, 0.90)", borderRadius: 16, borderLeft: "6px solid #F59E0B" }}>
           <div style={{ color: "#F59E0B", fontSize: 20, fontWeight: 800, letterSpacing: 3 }}>CONCLUSION: THE GEOPOLITICAL STAGE</div>
-          <div style={{ color: "#FFFFFF", fontSize: 34, fontWeight: 900, marginTop: 4 }}>
-            Gold Medals as Ideological Legitimacy
-          </div>
-          {frame >= 165 && (
-            <div style={{ color: "#CBD5E1", fontSize: 20, marginTop: 6 }}>
-              A profound instrument of national pride and diplomatic messaging
-            </div>
-          )}
+          <div style={{ color: "#FFFFFF", fontSize: 32, fontWeight: 900, marginTop: 4 }}>Gold Medals as Ideological Legitimacy</div>
         </div>
       </Sequence>
 
-      {/* 318.0s - 325.0s (Frames 285 - 210): Gold Medal Macro (7s) */}
-      <Sequence from={285} durationInFrames={210}>
-        <KenBurnsImage
-          src={staticFile("images/stock/12_olympic_gold_medal.jpg")}
-          durationInFrames={210}
-          direction="zoom-out"
-        />
-        <SourceCitation text="Source: Unsplash / Olympic Archive" />
-      </Sequence>
-
-      {/* 325.0s - 333.0s (Frames 495 - 240): Climax Statement (8s) */}
-      <Sequence from={495} durationInFrames={240}>
-        <AbsoluteFill style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", backgroundColor: "#080C16" }}>
-          <div style={{ fontSize: 22, fontWeight: 700, color: "#F59E0B", letterSpacing: 4, marginBottom: 16 }}>
-            THE DEFINITIVE MESSAGE
-          </div>
-          <div style={{ fontSize: 52, fontWeight: 900, color: "#FFFFFF", textAlign: "center", maxWidth: 1200, lineHeight: 1.25 }}>
-            "The collective dedication of a nation capable of engineering everyday mortals into number one champions of the world."
+      {/* 312.5s - 316.0s (Frames 120 - 105): Ideological Metric (3.5s) */}
+      <Sequence from={120} durationInFrames={105}>
+        <AbsoluteFill style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", backgroundColor: "#090D1A" }}>
+          <div style={{ fontSize: 22, fontWeight: 800, color: "#F59E0B", letterSpacing: 4, marginBottom: 12 }}>MORE THAN ATHLETICS</div>
+          <div style={{ fontSize: 62, fontWeight: 900, color: "#FFFFFF", textAlign: "center", maxWidth: 1100 }}>
+            An Instrument of National Pride & Global Messaging
           </div>
         </AbsoluteFill>
       </Sequence>
 
-      {/* 333.0s - 345.0s (Frames 735 - 360): YouTube End Screen Area (12s) */}
-      <Sequence from={735} durationInFrames={360}>
-        <AbsoluteFill
-          style={{
-            display: "flex",
-            flexDirection: "column",
-            alignItems: "center",
-            justifyContent: "center",
-            backgroundColor: "#060A14",
-          }}
-        >
-          <div style={{ fontSize: 20, fontWeight: 800, color: "#F59E0B", letterSpacing: 4, marginBottom: 16 }}>
-            THANKS FOR WATCHING
-          </div>
-          <div style={{ fontSize: 56, fontWeight: 900, color: "#FFFFFF", marginBottom: 30 }}>
-            Anatomy of a Champion Machine
-          </div>
+      {/* 316.0s - 320.0s (Frames 225 - 120): Gold Medal Macro Photo (4.0s) */}
+      <Sequence from={225} durationInFrames={120}>
+        <KenBurnsImage src={staticFile("images/stock/12_olympic_gold_medal.jpg")} durationInFrames={120} direction="zoom-out" />
+        <SourceCitation text="Source: Unsplash / Olympic Archive" />
+      </Sequence>
 
-          {/* Reserved placeholders for YouTube End Screen Elements */}
-          <div style={{ display: "flex", gap: 60, marginTop: 20 }}>
-            <div
-              style={{
-                width: 320,
-                height: 180,
-                border: "2px dashed rgba(255, 255, 255, 0.25)",
-                borderRadius: 16,
-                display: "flex",
-                alignItems: "center",
-                justifyContent: "center",
-                color: "rgba(255, 255, 255, 0.4)",
-                fontSize: 18,
-                fontWeight: 700,
-              }}
-            >
-              [RECOMMENDED VIDEO]
-            </div>
-            <div
-              style={{
-                width: 140,
-                height: 140,
-                borderRadius: "50%",
-                border: "2px dashed rgba(245, 158, 11, 0.4)",
-                display: "flex",
-                alignItems: "center",
-                justifyContent: "center",
-                color: "#F59E0B",
-                fontSize: 18,
-                fontWeight: 800,
-                alignSelf: "center",
-              }}
-            >
-              [SUBSCRIBE]
-            </div>
-            <div
-              style={{
-                width: 320,
-                height: 180,
-                border: "2px dashed rgba(255, 255, 255, 0.25)",
-                borderRadius: 16,
-                display: "flex",
-                alignItems: "center",
-                justifyContent: "center",
-                color: "rgba(255, 255, 255, 0.4)",
-                fontSize: 18,
-                fontWeight: 700,
-              }}
-            >
-              [BEST FOR VIEWER]
-            </div>
+      {/* 320.0s - 324.0s (Frames 345 - 120): National Competitiveness (4.0s) */}
+      <Sequence from={345} durationInFrames={120}>
+        <AbsoluteFill style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", backgroundColor: "#070B14" }}>
+          <div style={{ fontSize: 20, fontWeight: 800, color: "#10B981", letterSpacing: 4, marginBottom: 12 }}>SYSTEMIC VALIDATION</div>
+          <div style={{ fontSize: 60, fontWeight: 900, color: "#FFFFFF", textAlign: "center", maxWidth: 1100 }}>
+            Proof of Modernization and State Execution Capacity
           </div>
+        </AbsoluteFill>
+      </Sequence>
 
-          <div style={{ color: "#64748B", fontSize: 16, marginTop: 40 }}>
-            Full License Attribution & Manifest: src/assets.manifest.json
+      {/* 324.0s - 328.0s (Frames 465 - 120): The Final Thesis (4.0s) */}
+      <Sequence from={465} durationInFrames={120}>
+        <AbsoluteFill style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", backgroundColor: "#080C16" }}>
+          <div style={{ fontSize: 22, fontWeight: 700, color: "#F59E0B", letterSpacing: 4, marginBottom: 12 }}>THE DEFINITIVE MESSAGE</div>
+          <div style={{ fontSize: 64, fontWeight: 900, color: "#FFFFFF", textAlign: "center" }}>State Discipline at Peak Scale</div>
+        </AbsoluteFill>
+      </Sequence>
+
+      {/* 328.0s - 333.0s (Frames 585 - 150): Climax Statement (5.0s) */}
+      <Sequence from={585} durationInFrames={150}>
+        <AbsoluteFill style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", backgroundColor: "#060A12" }}>
+          <div style={{ fontSize: 48, fontWeight: 900, color: "#FFFFFF", textAlign: "center", maxWidth: 1200, lineHeight: 1.3 }}>
+            "The collective dedication of a nation capable of engineering everyday mortals into <span style={{ color: "#F59E0B" }}>number one champions of the world.</span>"
           </div>
         </AbsoluteFill>
       </Sequence>

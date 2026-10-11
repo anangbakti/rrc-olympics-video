@@ -5,7 +5,7 @@ export const ThumbnailB: React.FC = () => {
   return (
     <AbsoluteFill style={{ backgroundColor: "#060A14", overflow: "hidden" }}>
       <img
-        src={staticFile("images/ai/03_diving_depth_concept.jpg")}
+        src={staticFile("images/stock/06_chinese_diving_10m.jpg")}
         alt=""
         style={{ width: "100%", height: "100%", objectFit: "cover", filter: "contrast(1.25) brightness(0.75)" }}
       />

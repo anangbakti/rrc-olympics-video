@@ -5,9 +5,9 @@ export const ThumbnailC: React.FC = () => {
   return (
     <AbsoluteFill style={{ backgroundColor: "#060A14", overflow: "hidden" }}>
       <img
-        src={staticFile("images/ai/02_training_compound_dust.jpg")}
+        src={staticFile("images/stock/02_shichahai_sports_school.jpg")}
         alt=""
-        style={{ width: "100%", height: "100%", objectFit: "cover", filter: "contrast(1.3) brightness(0.65)" }}
+        style={{ width: "100%", height: "100%", objectFit: "cover", filter: "contrast(1.2) brightness(0.7)" }}
       />
       <AbsoluteFill style={{ background: "radial-gradient(circle at center, transparent 20%, rgba(6, 10, 20, 0.88) 100%)" }} />
 
